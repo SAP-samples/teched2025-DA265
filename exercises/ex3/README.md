@@ -508,22 +508,10 @@ SAP Analytics Cloud generates visualizations that are certified by the Internati
 <BR>
 <BR>
  
-## Dynamically generated questions serve as prompts, helping you explore related inquiries.
+
 
 <BR>
 <BR>
-  
-Step 46: Explore suggested questions
-
-1. Observe (no action) the bottom right-hand corner has several pre-defined questions relating to the model in use.  You will use these soon, not now.
-2. The top right-hand corner has several dynamically created questions you can ask. **Click** one of these.
-
-  
-  
-Optionally repeat step 2 several times.
-
-![Image](3047.jpg)
-
 
   
 

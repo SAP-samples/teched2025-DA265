@@ -9,13 +9,14 @@ Step 1:
 1. Open another browser tab and access [SAP Workzone](https://six-joule-sac-teched25.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=0ec917b6-0536-46a8-9bff-df00dd211f8a#Shell-home)
 2. Log in with user ID displayed next to the TechEd laptop.
 3. Log in with password displayed next to the TechEd laptop.
-4. Click **Continue**
+4. Click **Continue** or **Log On** 
 
 ![Image](1001.jpg)
 <BR>
 <BR>
 <BR>
 <BR>
+
 
 Step 2:
 1. Click **Joule** icon 
@@ -25,10 +26,24 @@ Step 2:
 <BR>
 <BR>
 
-Step 4: Click on **Catalog**. This will open a pre-defined set of resources that are easier to discover.
-  
+Step 3:
+1. **Drag and drop** the Joule window so its comfortable to use
+2. In the search box type `show me sales`
+3. Press **enter** or click **send**
 
-![Image](1001.jpg)
+![Image](1003.jpg)
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+
+Step 4:
+1. **No action in this step**. Observe that an Analytical Insight is displayed showing the sales figure.
+2. In the search box type `compared to last year`
+3. Press **enter** or click **send**
+  
 
 <BR>
 <BR>

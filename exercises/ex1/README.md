@@ -5,20 +5,21 @@
 As an information consumer, you want to understand how sales in your organization compare to those in the various countries where you operate.
   
 
-Step 1: Access the [SAP Workzone](https://six-joule-sac-teched25.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=0ec917b6-0536-46a8-9bff-df00dd211f8a#Shell-home).
+Step 1:
+1. Open another browser tab and access [SAP Workzone](https://six-joule-sac-teched25.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=0ec917b6-0536-46a8-9bff-df00dd211f8a#Shell-home)
+2. Log in with user ID displayed next to the TechEd laptop.
+3. Log in with password displayed next to the TechEd laptop.
+4. Click **Continue**
 
-<BR>
-<BR>
-
-Step 2: Log in with user and password as displayed next to the TechEd laptop.
-
+![Image](1001.jpg)
 <BR>
 <BR>
 <BR>
 <BR>
 
-Step 3: The screenshots will show the user **AIUSER001** and **AIUSER101**, naturally the screen for your user is likely to be different.
-
+Step 2:
+1. Click **Joule** icon 
+![Image](1002.jpg)
 <BR>
 <BR>
 <BR>

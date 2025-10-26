@@ -27,7 +27,7 @@ Step 3: The screenshots will show the user **AIUSER001** and **AIUSER101**, natu
 Step 4: Click on **Catalog**. This will open a pre-defined set of resources that are easier to discover.
   
 
-![Image](1001.jpg){ width: 200px; }
+![Image](1001.jpg)
 
 <BR>
 <BR>

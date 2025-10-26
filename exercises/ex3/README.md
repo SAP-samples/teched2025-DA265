@@ -13,6 +13,10 @@ These predefined questions enable a low entry point for Information Consumers to
 
   
   
+<BR>
+<BR>
+<BR>
+<BR>
 
 Step 1: Return to the main Just Ask homepage and explore predefined questions.
 1. Click on the **Just Ask** logo.
@@ -57,115 +61,155 @@ We will make a copy of an existing story, so we have edit rights on it, and then
 <BR>
 <BR>
 
+When we copy the story, we shall also copy the underlying data model as we shall enhance this copied model later.
 
 
-Step 4: 
-If you followed the above instructions, you would have opened the story earlier, so you should skip this step. If you did not open the story beforehand, open it now.
-
-![Image](img/ex2_img9.png)
 
 
 <BR>
 <BR>
 
-Step 5: 
+Step 3: Take a copy of the story, and the model. We shall store these copies into our own private 'my files' folder.
   
-  As we don’t have edit rights on this story, we need to make a copy. We will do so via the ‘save as’ workflow.
-1. Select **File**
-2. Select **Save As...**
+1. Click **Menu**
+2. Click **Files**
+3. Click **Features Files** (the story and the models have been 'featured' for us to easily identify).
+4. Select the '**all**' check box
+5. Click **Copy**
 
-![Image](img/ex2_img10.png)
+
+![Image](img/5050.jpg)
 
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 6:
+Step 4:
   
-1. Select **Just Ask Workshop** folder (or navigate to it)
-2. Select the folder corresponding to your user ID: **Just Ask 0${number}**.
+1. Click **My Files** folder 
+2. Check that your target folder is empty, except for 'Public' and 'Samples'
+3. Click **Copy** 
  
-![Image](img/ex2_img11.png)
+![Image](img/5051.jpg)
 
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 7:
+Step 5: **No action in this step**. Kindly wait a moment during the copying process to complete.
+
+![Image](img/5052.jpg)
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+Step 6: 
+
+1. Click **My Files** folder 
+2. Check that your 'My Files' folder now contains 2 new files, one story and one model.
+3. Click **Menu** to collapse the menu as shown.
+
+![Image](img/5053.jpg)
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+Step 7: We can now open the Story in edit mode as you are the owner of this copied story.
+1. For the 'Sales Summary' story, click **...**
+2. and **Open in Story Edit Mode** from the pop-up menu
+
   
-1. Checking the folder is correct **Just Ask Workshop / Just Ask 0${number}**
-2. Change the name to `Sales Summary 0${number}`
-3. Press **Save**.
-  
-![Image](img/ex2_img12.png)
+
+![Image](img/5054.jpg)
 
 
+<BR>
+<BR>
 <BR>
 <BR>
 
 Step 8: 
-  
-1. As you now have full edit rights on this copied story, reload the browser page to open in edit mode. Click ‘reload’ the browser page.
 
-![Image](img/ex2_img13.png)
+1. Check the menu bar is collapsed as this provides more space
+2. Click on the page 'Global Essence Group' as we shall add new visualisations to this page with the help of 'just ask'.
+3. Click **Just Ask**
+
+![Image](img/5055.jpg)
 
 
+<BR>
+<BR>
 <BR>
 <BR>
 
 Step 9: 
-  Enter Edit mode. Click on **Edit**.
-  
-If the edit option is not available, you probably missed the previous step.
 
-  
+1. Return to the 'just ask' home page by clicking on **Just Ask**
+2. We need to tell Just Ask which model we’re interested in exploring. Click on **model** selection.
+3. At the moment we only have access to a single model, so only one will be shown. 
 
-![Image](img/ex2_img14.png)
+
+![Image](img/5056.jpg)
 
 
 <BR>
 <BR>
-
-
-
-
-Step 10.	
-  
-Open **Just Ask**
-  
-![Image](img/ex2_img1.png)
-
 <BR>
 <BR>
 
-Step 11. We need to tell Just Ask which model we’re interested in exploring
-  
-1.	Click **Select model**
-2.	Select the **Just Ask Sales master start model**
+Step 10: 
 
-![Image](img/ex2_img1_part2.png)
+1. Just a single click on the search box **'Search through model Sales'** will show a pop-down menu.
+2. Observe the elements shown with the various icons for measures, dates, dimensions and versions, etc. It will also contain dimension member values, like the names of stores for the 'Store' dimension.
 
+![Image](img/5057.jpg)
+<BR>
+<BR>
+<BR>
+<BR>
 
+Step 11: 
+
+1. Click on **+** and another pop-down menu is shown. This exposes more about the data structures including hierarchies.
+2. Click (select) the **Corporation**
+
+![Image](img/5058.jpg)
+<BR>
+<BR>
 <BR>
 <BR>
 
 Step 12:
   
 1. Place the cursor in the search box by clicking the **search box**.
-2. No action, just observe the drop-down box appearing with measures, dates, versions, and dimensions.
+2. No action, just observe the drop-down box appearing with the dimension values for 'Corporation'. Without even running a query you can start to explore the data in the model.
      
-![Image](img/ex2_img3.png)
+![Image](img/5059.jpg)
 
 
 <BR>
 <BR>
+<BR>
+<BR>
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   stopped here xxxxxxxxxxxxxxxxxxxxxxxxx
 
 Step 13: While the 'drop-down' box shows available options, another method clarifies hierarchies more effectively.
   
 1. Click the **+** icon (and do **NOT** use the drop-down list box, since the '+' menu exposes the model structure)
 2. Observe that Brand is a hierarchy and Corporation is under Brand. Click **Corporation**.
 
-![Image](img/ex2_img4.png)
+![Image](img/5060.jpg)
 
 
 <BR>

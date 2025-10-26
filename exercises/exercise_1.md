@@ -1,16 +1,21 @@
 
+# Exercise 1: Use case 1: Information Consumer unable to find information within existing dashboards
 
-# Exercise 1: Use case 1: Information Consumer
-
-As an information consumer, you want to understand how sales in your organization compare to those in the various countries where you operate.
+As an information consumer, you want to understand how sales in your organization compare to those in the various countries where you operate. While it seems logical to access a predefined 'sales dashboard' for the insights you need, you quickly discover that the dashboard is insufficient. To gain a deeper understanding, you’ll require the power of AI to assist you.
   
+## Exercise 1.1: Consume dashboard, explore the power of Just Ask
 
-Step 1: Access the [SAP Workzone](https://six-joule-sac-teched25.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=0ec917b6-0536-46a8-9bff-df00dd211f8a#Shell-home).
+Step 1: Access the [SAP Analytics Cloud service](https://teched5.eu10.sapanalytics.cloud/).
 
 <BR>
 <BR>
 
-Step 2: Log in with user and password as displayed next to the TechEd laptop.
+Step 2: Log in with user **AIUSER0${number}**	and password **${sac0.password}**.
+
+
+> [!ATTENTION]
+> If you have already accessed SAP Analytics Cloud today as part of another exercise, you must log out first.
+
 
 <BR>
 <BR>
@@ -27,7 +32,7 @@ Step 3: The screenshots will show the user **AIUSER001** and **AIUSER101**, natu
 Step 4: Click on **Catalog**. This will open a pre-defined set of resources that are easier to discover.
   
 
-![Image](1001.jpg)
+![Image](img/ex1_img1.png)
 
 <BR>
 <BR>
@@ -473,13 +478,3 @@ Optionally repeat step 2 several times.
 
 > [!TIP|icon:fa-solid fa-check|label:Congratulations]
 >  You have completed exercise 1 of 4.
-
-
-
-
-## Summary
-
-You've now ...
-
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
-

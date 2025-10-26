@@ -11,7 +11,7 @@ Step 1:
 3. Log in with password displayed next to the TechEd laptop.
 4. Click **Continue** or **Log On** 
 
-![Image](1001.jpg)
+![Image](img/1001.jpg)
 <BR>
 <BR>
 <BR>
@@ -20,7 +20,7 @@ Step 1:
 
 Step 2:
 1. Click **Joule** icon 
-![Image](1002.jpg)
+![Image](img/1002.jpg)
 <BR>
 <BR>
 <BR>
@@ -31,7 +31,7 @@ Step 3:
 2. In the search box type `show me sales`
 3. Press **enter** or click **send**
 
-![Image](1003.jpg)
+![Image](img/1003.jpg)
 <BR>
 <BR>
 <BR>
@@ -44,7 +44,7 @@ A very simple question, but you’d like to see how your sales are performing co
 2. In the search box type `compared to last year`
 3. Press **enter** or click **send**
 
-![Image](1004.jpg)
+![Image](img/1004.jpg)
 <BR>
 <BR>
 <BR>
@@ -56,7 +56,7 @@ Step 5:
 2. In the search box type `by state`, as you would now like to see how the same figures compare for business across all regional states.
 3. Press **enter** or click **send**
   
-![Image](1005.jpg)
+![Image](img/1005.jpg)
 <BR>
 <BR>
 <BR>
@@ -68,7 +68,7 @@ Step 6:
 2. In the search box type `by store for washington`, as you would now like to see which stores are performing well in your best performing state.
 3. Press **enter** or click **send**
   
-![Image](1006.jpg)
+![Image](img/1006.jpg)
 <BR>
 <BR>
 <BR>
@@ -79,7 +79,7 @@ Step 7:
 1. **No action in this step**. Observe the bar chart now showing the sales for each store type but filtered to just Washington. It has maintained the variance comparison to last year.
 2. Maximise the Joule window
   
-![Image](1007.jpg)
+![Image](img/1007.jpg)
 <BR>
 <BR>
 <BR>
@@ -89,7 +89,7 @@ Step 8:
 1. **No action in this step**. Observe that our conversations with Joule can be seen and restarted in this window. .
 2. **Click** the 'Learn More' icon to understand more about conversations. Once you've finished referring to the documentation, return back to this browser tab.
   
-![Image](1008.jpg)
+![Image](img/1008.jpg)
 <BR>
 <BR>
 <BR>

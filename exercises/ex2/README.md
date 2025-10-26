@@ -8,7 +8,7 @@ Step 1:
 2. In the 'Just Ask' card enter `show me sales`
 3. Press **enter** or click **Ask**
 
-![Image](2009.jpg)
+![Image](img/2009.jpg)
 <BR>
 <BR>
 <BR>
@@ -17,7 +17,7 @@ Step 1:
 
 Step 2: **No action in this step**. As with Joule, the total sales in $ and by millions (m) is shown.
 
-![Image](2010.jpg)
+![Image](img/2010.jpg)
 
 <BR>
 <BR>
@@ -29,7 +29,7 @@ Step 4:
 1. Type `show me sales by state`
 2. Press **enter** or click **Ask**
 
-![Image](2011.jpg)
+![Image](img/2011.jpg)
 
 <BR>
 <BR>
@@ -44,7 +44,7 @@ You can instantly compare the performance of one state against another.
 2.	Click on **Ontario** to show the difference in sales performance.
 3.	Observe the pop-up showing the variance.
 
-![Image](2012.jpg)
+![Image](img/2012.jpg)
 
 <BR>
 <BR>
@@ -58,7 +58,7 @@ Step 6: A table provides an easier way to see the hierarchy of states across cou
   
 It would be nice to visualise these values which we shall do very shortly…
 
-![Image](2013.jpg)
+![Image](img/2013.jpg)
 
 <BR>
 <BR>
@@ -75,7 +75,7 @@ Step 7: The results so far, are across all time. You’re keen to see year-to-da
 
   
 
-![Image](2014.jpg)
+![Image](img/2014.jpg)
 
 <BR>
 <BR>
@@ -88,7 +88,7 @@ Step 8:
 2. Observe the date selection has automatically selected the current year. Just Ask is aware of the current time.
 1. Click on ‘**Edit chart**’ as we would like to add the Store dimension to this chart and explore what's possible.
 
-![Image](2015.jpg)
+![Image](img/2015.jpg)
 
 <BR>
 <BR>
@@ -99,7 +99,7 @@ Step 9:
   
 1. Click on ‘**Add Dimension**’ so we can add Store
 
-![Image](2016.jpg)
+![Image](img/2016.jpg)
 
 <BR>
 <BR>
@@ -110,7 +110,7 @@ Step 10:
   
 1. Click on ‘**Store**’ to add Store to the chart
 
-![Image](2017.jpg)
+![Image](img/2017.jpg)
 
 <BR>
 <BR>
@@ -124,7 +124,7 @@ Step 11: Combining the ‘YTD’ and the ‘top-level’ shown just a moment ago
 1. Type `show me sales ytd by state drill on top level`
 2. Press **enter** or click **Ask**
 
-![Image](2018.jpg)
+![Image](img/2018.jpg)
 
 <BR>
 <BR>
@@ -137,7 +137,7 @@ Step 12: And the chart continues to be interactive, for example:
 2. Optionally, click on **Drill Down on State** pop-up
 3. Explore this dataset, click on **Analyze Data** which will open a new browser tab. 
 
-![Image](2019.jpg)
+![Image](img/2019.jpg)
 
 <BR>
 <BR>
@@ -153,7 +153,7 @@ Step 13:
 5. The filters are shown in this filters panel.
 5. Close the browser tab.
 
-![Image](2020.jpg)
+![Image](img/2020.jpg)
 
 <BR>
 <BR>
@@ -165,7 +165,7 @@ Step 14: You’re keen to see of the USA is performing.
 1. Type `show me sales ytd by state drill on country USA`
 2. Press **enter** or click **Ask**
 
-![Image](2021.jpg)
+![Image](img/2021.jpg)
 
 <BR>
 <BR>
@@ -178,7 +178,7 @@ Step 15: **No action in this step**. Observe the drill level has been set
 2. Select **Drill**
 3. Select **State** and see **Country** is the drill option set for you.
 
-![Image](2022.jpg)
+![Image](img/2022.jpg)
 
 <BR>
 <BR>
@@ -190,7 +190,7 @@ Step 16: Now you’d like to see how sales are compared to forecast.
 1. Type `show me trend sales actual and forecast`
 2. Press **enter** or click **Ask**
 
-![Image](2023.jpg)
+![Image](img/2023.jpg)
 
 <BR>
 <BR>
@@ -204,7 +204,7 @@ Step 17: **No action in this step**. Observe the Version has been set
 2. Observe that both Actual and Forecast versions have been selected for you.
 3. As you asked for *trend*, a time-series chart is shown, allowing you to easily change the time span as needed.
 
-![Image](2024.jpg)
+![Image](img/2024.jpg)
 
 <BR>
 <BR>
@@ -216,7 +216,7 @@ Step 18: Whilst a time-series chart is handy, you’re a quarterly-driven sales 
 1. Type `show me trend sales actual and forecast drill by quarter`
 2. Press **enter** or click **Ask**
 
-![Image](2025.jpg)
+![Image](img/2025.jpg)
 
 <BR>
 <BR>
@@ -233,7 +233,7 @@ Observe the Drill has been set
 2. Click **Drill – Date**
 3. Observe *Quarter* has been selected for you as the drill level and the time-series chart x-axis now shows quarters, rather than days.
 
-![Image](2026.jpg)
+![Image](img/2026.jpg)
 
 <BR>
 <BR>
@@ -246,7 +246,7 @@ Step 24: Now you’d like to turn your attention to the performance by store (ty
 1. Type `show me sales ytd by store as a pie chart`
 2. Press **enter** or click **Ask**
 
-![Image](2027.jpg)
+![Image](img/2027.jpg)
 
 <BR>
 <BR>
@@ -258,7 +258,7 @@ Step 27: No action in this step.
 Observe you can ask for the visualisation as you desire, in this case, a pie chart.
 1. Clicking on a slice shows a pop-up window with more details.
 
-![Image](2028.jpg)
+![Image](img/2028.jpg)
 
 <BR>
 <BR>
@@ -270,7 +270,7 @@ Step 28: Now the sales by state and store as a heatmap
 1. Type `show me the sales by state and store as heatmap`
 2. Press **enter** or click **Ask**
 
-![Image](2029.jpg)
+![Image](img/2029.jpg)
 
 <BR>
 <BR>
@@ -285,7 +285,7 @@ Observe you may interact will all charts, including simple functions such as exc
 1. Optionally click on a **value**
 2. Optionally click on the **X** to exclude this State/Store 
 
-![Image](2030.jpg)
+![Image](img/2030.jpg)
 
 <BR>
 <BR>
@@ -297,7 +297,7 @@ Step 30: Now you need AI to help identify your top-performing products
 1. Type `top 3 product by sales and state`
 2. Press **enter** or click **Ask**
         
-![Image](2031.jpg)
+![Image](img/2031.jpg)
 
 <BR>
 <BR>
@@ -314,7 +314,7 @@ Observe the ranking option has been selected for you
 3. Click on **All Dimensions**
 4. Observe **Top 3** has been selected for you. 
 
-![Image](2032.jpg)
+![Image](img/2032.jpg)
 
 <BR>
 <BR>
@@ -326,7 +326,7 @@ Step 32: Your attention is now on the number of units sold and you want to compa
 1. Type `compare 2025 units with previous year`
 2. Press **enter** or click **Ask**
 
-![Image](2033.jpg)
+![Image](img/2033.jpg)
 
 <BR>
 <BR>
@@ -342,7 +342,7 @@ Observe the variance comparison has been selected for you with the current year 
 2. Click on **Applied to Chart**
 3. Observe the **Variance**
 
-![Image](2034.jpg)
+![Image](img/2034.jpg)
 
 <BR>
 <BR>
@@ -354,7 +354,7 @@ Step 34: Now, you want to see how the 2025 units compare to previous years for e
 1. Type `compare 2025 units with previous year by store`
 2. Press **enter**, or click **Ask**
 
-![Image](2035.jpg)
+![Image](img/2035.jpg)
 
 <BR>
 <BR>
@@ -363,7 +363,7 @@ Step 34: Now, you want to see how the 2025 units compare to previous years for e
 
 Step 35: No action in this step. Observe the variance has been applied across the bar chart.
 
-![Image](2036.jpg)
+![Image](img/2036.jpg)
 
 <BR>
 <BR>
@@ -375,7 +375,7 @@ Step 36: You’re now curious about how figures are as a percentage difference s
 1. Type `compare 2025 units with previous year by store as %`
 2. Press **enter** or click **Ask**
 
-![Image](2037.jpg)
+![Image](img/2037.jpg)
 
 <BR>
 <BR>
@@ -384,7 +384,7 @@ Step 36: You’re now curious about how figures are as a percentage difference s
 
 Step 37 No action in this step. Observe the variance percentage shows that each store has sold exactly 10% more than last year.
 
-![Image](2038.jpg)
+![Image](img/2038.jpg)
 
 <BR>
 <BR>
@@ -397,7 +397,7 @@ Step 38: You’re now interested in comparing units sold with the forecast, and 
 1. Type `compare actual units with forecast for this month`
 2. Press **enter** or click **Ask**
 
-![Image](2039.jpg)
+![Image](img/2039.jpg)
 
 <BR>
 <BR>
@@ -416,7 +416,7 @@ Step 38: You’re now interested in comparing units sold with the forecast, and 
 6. Observe the current month is selected for you. (screenshot taken in October 2025)
 
 
-![Image](2040.jpg)
+![Image](img/2040.jpg)
 
 <BR>
 <BR>
@@ -429,7 +429,7 @@ Step 40: Your focus now turns to brands with over 1 millions units sold last yea
 `
 2. Press **enter** or click **Ask**
         
-![Image](2041.jpg)
+![Image](img/2041.jpg)
 
 <BR>
 <BR>
@@ -446,7 +446,7 @@ Step 41: No action in this step. Observe the current month has been selected for
 6. Observe the current month is selected for you. (screenshot taken in October 2025)
 
 
-![Image](2042.jpg)
+![Image](img/2042.jpg)
 
 <BR>
 <BR>
@@ -458,7 +458,7 @@ Step 42: You want to now check the sales and expense for each store for next mon
 1. Type `what are the sales and expense by store next month`
 2. Press **enter** or click **Ask**
 
-![Image](2043.jpg)
+![Image](img/2043.jpg)
   
 
 <BR>
@@ -477,7 +477,7 @@ Step 43: No action in this step. Observe the next month has been selected for yo
 
 Observe the complexities of the filtering and variance comparison have all been done for you.
 
-![Image](2044.jpg)
+![Image](img/2044.jpg)
 <BR>
 <BR>
 <BR>
@@ -488,7 +488,7 @@ Step 44: You want to now check the sales for next month, but this time compare a
 1. Type `what are the sales by store next month actual and forecast  `
 2. Press **enter** or click **Ask**
 
-![Image](2045.jpg)
+![Image](img/2045.jpg)
   
 
 <BR>
@@ -502,7 +502,7 @@ If your the visualisation is not as shown below, try adding `as bar chart` to yo
 
 SAP Analytics Cloud generates visualizations that are certified by the International Business Communication Standards (IBCS). This is the reason the forecast is presented in this specific format. Just Ask will consistently strive to create visualizations that adhere to IBCS guidelines. To learn more about IBCS, visit https://www.ibcs.com/software/sap-analytics-cloud/.
 
-![Image](2046.jpg)
+![Image](img/2046.jpg)
 <BR>
 <BR>
 <BR>
@@ -522,7 +522,7 @@ Step 46: Explore suggested questions
   
 Optionally repeat step 2 several times.
 
-![Image](3047.jpg)
+![Image](img/3047.jpg)
 
 
   

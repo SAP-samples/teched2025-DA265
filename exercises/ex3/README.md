@@ -201,6 +201,7 @@ We can now open the Story in edit mode as you are the owner of this copied story
   
 1. Place the cursor in the search box by clicking the **search box**.
 2. No action, just observe the pop-down box appearing with the dimension values for 'Corporation'. Without even running a query you can start to explore the data in the model.
+3. Click (select) the **Global Essence Group** value
      
 ![Image](img/5059.jpg)
 
@@ -212,7 +213,9 @@ We can now open the Story in edit mode as you are the owner of this copied story
 
 
 
-Step 13: While the 'drop-down' box shows available options, another method clarifies hierarchies more effectively.
+### Step 13: explore hierarchies
+
+While the 'drop-down' box shows available options, another method clarifies hierarchies more effectively.
   
 1. Click the **+** icon (and do **NOT** use the drop-down list box, since the '+' menu exposes the model structure)
 2. Observe that Brand is a hierarchy and Corporation is under Brand. Click **Corporation**.
@@ -223,11 +226,13 @@ Step 13: While the 'drop-down' box shows available options, another method clari
 <BR>
 <BR>
 
-Step 14: With 'Corporation' selected the 'drop-down box' now shows the values 'under Corporation'.
+### Step 14: 
+
+With 'Corporation' selected the 'drop-down box' now shows the values 'under Corporation'.
   
 1.	Click on the value **Global Essence Group** (a value of Corporation)
 
-![Image](img/ex2_img5.png)
+![Image](img/5061.jpg)
 
 
 <BR>

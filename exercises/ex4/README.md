@@ -814,10 +814,13 @@ Similarly add the next rule, but this is for State. Click **Add Rules**
   
 Now we have created these rules, as well as the synonyms, we can test them:
   
-1. In the 'Test Rules' search box, enter the question `profitable states`
-2. Press **enter**, or click **search**
-3. No action. Observe the notification that rules have been applied.
-4. No action. Observe that Country has been added because we asked for *State*.
+1. Return to the Just Ask home page by clicking **Just Ask**
+2. Open the model selection drop-down menu
+3. Select **'Remove Model Selection'**. It will mean no particular model will be used, instead our question will be asked of both models.
+4. Observe that no particular model has been selected. It means we can ask the same question to both and observe the difference between the two.
+5. In the search box, enter the question `profitable states`
+6. Press **enter**, or click **Ask**
+
   
 You may also have observed that 'Profitable' is using the new measure you recently created called 'Profit'.
 
@@ -828,37 +831,152 @@ You may also have observed that 'Profitable' is using the new measure you recent
 <BR>
 <BR>
 
-Step 50:
-  
-1. In the 'Test Rules' search box, enter the question `PCs brand`
-2. Press **enter**, or click **search**
-3. No action. Observe the notification that rules have been applied.
-4. No action. Observe that 'Date' has been added because we asked for 'Units'. And 'Units' have been used because you referred to them by the term 'PCs'.
+### Step 51: Validating profitable and country/state rule
 
-![Image](img/ex3_img53.png)
+> when multiple models return results, the sequence of the visualisations is somewhat ambiguous
+
+#### For the visualisation for the model **DA265 Sales**:
+1. No action. Observe the default time period has been set to the **Current Year (Full Time)**
+2. No action. Observe the 'Country' state has been added, helping the users understand which state belongs to which country. Country is really just a property of State. This has helped validate one of the rules we created earlier.
+
+#### For the visualisation for the model **Sales_SampleModel**:
+3. No action. Observe that ***Sales*** has been used as the measure and not profit. This is because this model isn't aware of profit and so the default measure was used, in this case 'Sales'. 
+
+#### Save as a predefined question:
+4. Save this question by clicking **+ profitable states**
+
+
+
+![Image](img/6116.jpg)
+
+
 
 <BR>
 <BR>
-
-Step 51:
-  
-1. In the 'Test Rules' search box, enter the question `Grocery sales`
-2. Press **enter**, or click **search**
-3. Click on **Store** to open the pop-up window.
-4. No action. Observe that both mid-sized and small grocery stores are selected saving your users from repeatedly re-selecting the one previously missed.
-
-![Image](img/ex3_img54.png)
-
 <BR>
 <BR>
 
-Step 52: 
-  Exit this model and return to all the models.
-  
-Click **Models**.
+### Step 51: Save question to 'TechEd'
+1. Select the model **TechEd (DA265 Sales)**
+2. Click **Save**
 
-![Image](img/ex3_img55.png)
 
+![Image](img/6117.jpg)
+
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+### Step 52: Validating PCs alias and date rule
+1. In the search box, enter the question `PCs by brand`
+2. Press **enter**, or click **Ask**
+3. No action. Note that although no specific model was created, allowing both models to potentially produce results, only one model did. This is because only one model could understand 'PCs'.
+4. No action. Observe the default time period has been set.
+5. No action. Note that the ***Date*** dimension was added to the visualisation because our rule inserts the date whenever 'Unit' is used. We happened to refer to the Unit as 'PCs'.
+6. Save this question by clicking **+ PCs by brand**
+
+![Image](img/6118.jpg)
+
+### Step 53: Save question to 'TechEd'
+> There is no need to choose a model this time as only one model returned a result.
+1. Click **Save**
+
+![Image](img/6119.jpg)
+
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+### Step 54: Validating dimension member value synonyms
+1. Open the **Model Selection** drop-down box
+2. Select, check, the model **TechEd (DA265 Sales)**
+3. In the search box, enter the question `grocery store sales`
+4. Press **enter**, or click **Ask**
+
+![Image](img/6120.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 55: Validating Grocery stores
+
+1. Click on **Store** to open the pop-up window.
+2. No action. Observe that both mid-sized and small grocery stores are selected saving your users from repeatedly re-selecting the one previously missed.
+3. Save this question by clicking **+ grocery store sales**
+
+![Image](img/6121.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 56: Save question to 'TechEd'
+1. Click **Save**
+
+![Image](img/6122.jpg)
+
+
+
+### Step 57: Validating Country dimension values
+Our users could not recognise that Country was a dimension and that the State included values which were Countries. We will now explore how our improved model will reveal the new country property added to the State dimension.
+
+1. Click **X** to clear the search box.
+
+![Image](img/6123.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+
+### Step 58: model structure enhanced
+1. Click on **+** to expose the model structure (as seen by the users)
+2. No action. Observe that 'Profit' is listed, this is our calculated measure.
+3. Select **Country**. This is a new property that was previously not available. It means our users can now see and ask questions 'by country'.
+
+![Image](img/6124.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 59: Validating new Country dimension
+
+1. Observe from the drop-down list of values that three countries are listed. These are the three unique values from our new property Country_
+2. Select the measure **sales**
+3. Press **enter**, or click **Ask**
+
+![Image](img/6125.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+### Step 60: Save
+
+1. Observe the countries are now shown as a unique dimension.
+2. Save this question by clicking **+ Country Sales**
+
+![Image](img/6126.jpg)
+
+<BR>
+<BR>
 <BR>
 <BR>
 

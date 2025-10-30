@@ -233,8 +233,12 @@ Just Ask can't create new calculations on the fly, but it can use existing ones 
 <BR>
 <BR>
 
-## Step 20: 
-  Click **Add Calculated Measure**
+### Step 20: Add calculated Measure
+1. Click **Add Calculated Measure**
+2. Enter the Name `Profit`
+3. Enter the Description `Profit`
+4. In the formula box enter the three characters `[sa` 
+5. A pop-up box will appear and select **\[Sales\]**
 
 ![Image](img/6078.jpg)
   
@@ -244,61 +248,139 @@ Just Ask can't create new calculations on the fly, but it can use existing ones 
 <BR>
 <BR>
 
-Step 21: 
-  
-1. For the Name, enter `Profit`
-2. For the Description, enter `Profit`
-3. In the calculations enter the 3 characters `[sa`
-4. A pop-up box will appear and select **\[Sales\]**
 
-![Image](img/ex3_img20.png)
-
-<BR>
-<BR>
-
-Step 22:
+### Step 21: continue the formula
   
 1. Once, \[Sales\] has been selected as shown, type the 4 characters `-[ex`
 2. A pop-up box will appear and select **\[Expense\]**
 
-![Image](img/ex3_img21.png)
+![Image](img/6079.jpg)
+  
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 23: 
+### Step 23: Validate
   **No action**
   
-Validate the formula is valid and no errors are shown. If errors are shown, delete and repeat the above.
+Validate the formula is valid and no errors are shown. If errors are shown, delete and try the previous steps again.
 
-![Image](img/ex3_img22.png)
+![Image](img/6080.jpg)
+  
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 24: 
+### Step 24: Change Unit Type
   
 1. **Scroll down** within this new calculation
 2. Change the Unit Type to **Currency**
 
-![Image](img/ex3_img23.png)
-
-<BR>
-<BR>
-
-Step 25: 
-  Click **Save**
-
-![Image](img/ex3_img24.png)
+![Image](img/6081.jpg)
   
 
-You have now completed all the changes at the model level. They were:
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 25: Save and access Joule to find next steps
+
+Now we have
+
++ Added a new property to ‘State’ for ‘Country’. This will allow the ‘+’ button to show Country as a hierarchy of State’. It will also allow for questions like ‘Country Sales’.
++ Added a new measure calculation ‘Profit’.
+
+Doing these two tasks will help improve the user experience. But we also need to add synonyms to our model.
+
+But how we do that? How can we get add a model to Just Ask and add synonyms to it?
+
+1. Click **Save**, so save the model.
+2. Open **Joule**
+
+![Image](img/6082.jpg)
   
-- Adding a new property to ‘State’ for ‘Country’. This will allow the ‘+’ button to show Country as a hierarchy of State’. It will also allow for questions like ‘Country Sales’.
-- Adding a new measure calculation ‘Profit’.
 
 <BR>
 <BR>
+<BR>
+<BR>  
+
+
+### Step 26: New Conversation
+  
+1. Open the menu
+2. Select **'New Conversation'**
+
+![Image](img/6083.jpg)
+  
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 27: Ask Joule
+  
+1. Enter `how do I add a model to just ask and add synonyms to it` and press **send**
+
+![Image](img/6084.jpg)
+  
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 28: Joule responds with sources
+  
+1. Read the response for a summary, and then click the **Sources**
+
+![Image](img/6085.jpg)
+  
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+### Step 29: Source documentation
+  
+1. Click the Source **\[2] Manage Just Ask**
+2. Another browser tab will have opened. This workshop will guide you through each step, but feel free to read the content. Once you have finished with that documentation page, please return to the previous browser tab.
+3. Click **X** to close the ***Sources***
+
+![Image](img/6086.jpg)
+  
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 30: Close Joule, Open Just Ask, Open Manage Models
+  
+1. Click the **Joule** icon to close the Joule window.
+2. Click the **Just Ask** icon to open the Just Ask overlay.
+3. Click **Manage Models** to access the management page of Just Ask
+> Screenshot was taken between steps 2 and 3
+
+> As a user with Just Ask 'Administration' rights you have access to the 'Manage Models' interface.
+
+
+![Image](img/6087.jpg)
+  
+
+<BR>
+<BR>
+<BR>
+<BR>
+
 
 ## Just Ask Model Administration
 
@@ -310,93 +392,89 @@ Some administration tasks are needed to improve the ease of use for Just Ask con
 - Creating a few *rules*.
 - Other minor administration tasks.
 
-  
-### Indexing the model
-  
+
+
+
+
+### Step 31: Indexing the model
 We need to index the model so that Just Ask can learn about its metadata and so that users can consume it without necessarily knowing it exists.
 
-<BR>
-<BR>
-
-Step 26: Open **Just Ask**.
-
-![Image](img/ex1_img4.png)
-
-<BR>
-<BR>
-
-Step 27: 
-  As a user with Just Ask 'Administration' rights you have access to the 'Manage Models' interface.
-  
-Select **Manage Models**.
-
-![Image](img/ex3_img25.png)
-
-<BR>
-<BR>
-
-Step 28: On the *All Models* page, your copied model will not be shown because it’s not yet indexed.
-  
-Click **Add Model** so Just Ask can index your copied model.
-
-![Image](img/ex3_img26.png)
-
-<BR>
-<BR>
-  
-Step 29:
-
-1. Change the filter
-2. And select **Owned by me**
-3. In the search box enter `just ask`
-4. Your model will then appear to select. Select your **model** to start the indexing process.
-
-![Image](img/ex3_img27.png)
-
-<BR>
-<BR>
-
-Step 30: 
-  **No action.**
-
-Observe the model is indexed. It won't take very long for our model, but it could take a little while for a very large model.
-  
-In a workshop environment, it may also take longer than expected, so you may need to be patient and re-try.
+On the *All Models* page, your copied model will not be shown because it’s not yet indexed.
+1. Click **Add Model** so Just Ask can index your copied model.
 
 
-![Image](img/ex3_img28.png)
+
+![Image](img/6088.jpg)
   
 
-Congratulations!!! You’ve now indexed the model. It's very easy.
-
+<BR>
+<BR>
 <BR>
 <BR>
 
 
-### Add synonyms
+### Step 32: Add 'DA265 Sales' (in My Files)
+1. Select your copied model **DA265 Sales** that should be in ***My Files***
 
-Although we created a measure called 'profit', our users could ask for something like 'profitable states'. And whilst Just Ask can interpret many phases, it can’t identify 'profitable' as something that should involve 'profit'.
+> Indexing will start immediately.
+
+![Image](img/6089.jpg)
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 31: 
+### Step 33: Indexing in progress
+**No action**.
+
+Please be patient whilst your model is being indexed.
+
+> In a workshop environment, it may also take longer than expected, so you may need to be patient and re-try.
+
+![Image](img/6090.jpg)
   
-Click the word **profit** under Synonyms for the measure 'Profit'.
-
-![Image](img/ex3_img29.png)
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 32: 
+
+## Add synonym Profitable (measure)
+
+
+Although we created a measure called 'profit', our users could ask for something like 'profitable states'. And whilst Just Ask can interpret many phases, it can’t identify 'profitable' as something that should involve 'profit'. So we need to add a synonym to 'Profit' measure.
+
+### Step 34: Add 'profitable' as a synonym
+
+1. Click the **+** under Synonyms for the measure **'Profit'**.
+
+
+![Image](img/6091.jpg)
+  
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 35: Add and save
   
 1. Enter the word `profitable`
 2. Click **Add**
 3. Click **Save**
+> Screenshot taken between steps 2 and 3
 
-![Image](img/ex3_img30.png)
+![Image](img/6092.jpg)
   
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+## Add synonyms for Unit (measure)
 
 Although Just Ask can identify 'Units' as meaning 'Unit', it cannot recognize that users might use this unit of measure as the business term for the unit.  
 
@@ -404,14 +482,18 @@ Although Just Ask can identify 'Units' as meaning 'Unit', it cannot recognize th
 <BR>
 
 
-Step 33: Click the word **unit** under Synonyms for the measure 'Unit'.
+### Step 36: Add 'PC, PCs' as synonyms
+1. Click the **+** under Synonyms for the measure **'Unit'**.
 
-![Image](img/ex3_img31.png)
+![Image](img/6093.jpg)
+  
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 34: 
+### Step 37: Add PC and PCs as synonyms for Unit
   
 1. Enter `PC`
 2. Click **Add**
@@ -419,119 +501,173 @@ Step 34:
 4. Click **Add**
 5. Click **Save**
 
-Screenshot taken between steps 3 and 4
+> Screenshot taken between steps 3 and 4
 
-![Image](img/ex3_img32.png)
-
-<BR>
-<BR>
-
-
-Step 35: No action.
+![Image](img/6094.jpg)
   
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+### Step 38: No action.
+  
+**No action**
+
 Validate that the synonyms added are correct.
 
-![Image](img/ex3_img33.png)
+![Image](img/6095.jpg)
   
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+  
+## Add synonyms for Store member values (dimension values)
+
 
 Our business users, you may recall, would like to ‘grocery’ to refer to both ‘mid-size’ and ‘small’ groceries and they would like to avoid the need to repeatedly correct the filter that Just Ask creates for them.
 
 <BR>
 <BR>
 
-Step 36: 
-  Click on **View** under 'View members' to open the dimension value list.
+### Step 39: Dimension members list
+1. Click on **View** under 'members' to open the dimension value list for the ***Store*** dimension
 
-![Image](img/ex3_img34.png)
-
-<BR>
-<BR>
-
-Step 37: 
-  Click on the edit synonyms for 'Mid-Size Grocery'
-
-![Image](img/ex3_img35.png)
+![Image](img/6096.jpg)
+  
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 38: 
+### Step 40: Mid-size grocery
+1. Click on the edit synonyms for 'Mid-Size Grocery'
+
+![Image](img/6097.jpg)
+  
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 41: Add 'grocery' to member value
   
 1. Enter the word `grocery`
 2. Click **Add**
 3. Click **Save**
+> Screenshot taken between steps 2 and 3
 
-![Image](img/ex3_img36.png)
-
-<BR>
-<BR>
-
-Step 39: Click on **View** under 'View members' (again) to open the dimension value list.
-
-![Image](img/ex3_img37.png)
+![Image](img/6098.jpg)
+  
 
 <BR>
 <BR>
-
-Step 40: This time, click on the **edit** synonyms for 'Small Grocery'
-
-![Image](img/ex3_img38.png)
-
 <BR>
 <BR>
 
-Step 41: 
+### Step 42: Dimension members list (again)
+
+1. Click on **View** under 'members' (again) to open the dimension value list for the ***Store*** dimension
+
+![Image](img/6099.png)
+  
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 43: Small Grocery
+1. This time, click on the **edit** synonyms for 'Small Grocery'
+
+![Image](img/6100.jpg)
+  
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 41: Add 'grocery' to member value
   
 1. Enter the word `grocery`
 2. Click **Add**
 3. Click **Save**
+> Screenshot taken between steps 2 and 3
 
-![Image](img/ex3_img39.png)
-
-<BR>
-<BR>
-
-Step 42: Click on **View** under 'View members' (yet again) to open the dimension value list
-
-![Image](img/ex3_img40.png)
+![Image](img/6101.jpg)
+  
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 43: 
+### Step 42: Check Store synonyms
+1. Click **View** under 'members' (yet again) to open the dimension value list for the third time.
+
+![Image](img/6102.jpg)
+  
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 43: 
   Observe that 'grocery' is used twice for two different values. This means 'grocery' will be used to mean both values, just as the business users want it to be.
   
-Click **Close**.
+1. Click **Close**.
 
-![Image](img/ex3_img41.png)
-
-<BR>
-<BR>
-
-
-### Setting default measure (and adding alias)
-
-In case users don’t specify a measure we shall define a default one.
+![Image](img/6103.jpg)
   
-To help Just Ask identify the right model to use we shall add a model alias.
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+## Setting default measure, time period, alias and labels.
+
+If users do not specify a measure, we will set a default measure. Similarly, we will define a default time period, called the 'auto-inject Time Period' in Just Ask. This means that if no time period is specified, a standard one will be used. For example, if a user asks for 'sales' without specifying a time frame, we might default to the current year instead of all years.
+
+To improve model selection, we will also add a model alias and a model label to help Just Ask identify the appropriate model more easily. 
+
+
+
 
 <BR>
 <BR>
 
-Step 44: 
+### Step 44: Settings
   
 1. Select **Settings**
-2. Enter an alias corresponding to your user number `Sales 0${number}`
-3. Change the default measure to **Sales**
-4. Press **Save**
+2. Change the Model alias to `TechEd`
+3. Change the Model Label to **TechEd**
+4. Change the default measure to **Sales**
+5. Select (check) the option ***'Auto-inject Time Period'***
+6. For the 'Time Period' select **Current**
+7. ... then **Year**
+8. Press **Save**
 
-![Image](img/ex3_img42.png)
+![Image](img/6104.jpg)
+  
 
+<BR>
+<BR>
 <BR>
 <BR>
 
 
-### Adding rules
+## Adding rules
 
 Rules can help Just Ask to present the correct visualisation. 
   
@@ -545,100 +681,136 @@ Thanks to rules, we help our users and reduce repeated effort on their part.
 <BR>
 <BR>
 
-Step 45:
+### Step 45: Add rules
   
 1. Select **Rules**
 2. Click **Add Rules**
 
-![Image](img/ex3_img43.png)
+![Image](img/6105.jpg)
+  
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 46: 
-This is part 1 of 3:
+### Step 46: Date and Unit 
+#### This is part 1 of 3:
   
 1. In the 'rule name' enter `add date when using unit`
 2. In the 'When Search Contains' Select **Any of Measures (OR)**
 3. Select **Unit**
 4. Press **Next**
 
-![Image](img/ex3_img44.png)
+![Image](img/6106.jpg)
+  
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-This is part 2 of 3:
+#### This is part 2 of 3:
   
 1. In the Include Measure or Dimension, click **Add**
 2. Under 'Select an object' select **Date**
 3. Press **Next**
 
-![Image](img/ex3_img45.png)
+> If the list of available measures and dimensions is not shown, then cancel this workflow. Next, select 'Manage Models' and re-select this model before repeating from step 45. Please also inform your SAP representative so we are aware if this issue persists.
+
+![Image](img/6107.jpg)
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-This is part 3 of 3:
+#### This is part 3 of 3:
   
 1. **No action**. Observe the summary is correct
 2. Press **Save**
 
-![Image](img/ex3_img46.png)
+![Image](img/6108.jpg)
 
 <BR>
 <BR>
-
-Step 47: 
-  Similarly add the next rule, but this is for State. Click **Add Rules**
-
-![Image](img/ex3_img47.png)
-
 <BR>
 <BR>
 
-This is part 1 of 3:
+### Step 47: State and Country
+
+Similarly add the next rule, but this is for State. Click **Add Rules**
+
+![Image](img/6109.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+#### This is part 1 of 3:
   
 1.	In the 'rule name' enter `When dimension State is used include country`
 2.	In the 'When Search Contains' Select **Selected Dimensions (AND)**
 3.	Select **State**
 4.	Press **Next**
 
-![Image](img/ex3_img48.png)
+![Image](img/6110.jpg)
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-This is part 2 of 3:
+#### This is part 2 of 3:
   
 1.	In the 'Include Measure or Dimension', click **Add**
 2.	Under 'Select an object' select **Country**
 3.	Press **Next**
 
-![Image](img/ex3_img49.png)
+![Image](img/6111.jpg)
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-This is part 3 of 3:
+#### This is part 3 of 3:
   
 1.	**No action**. Observe the summary is correct
 2.	Press **Save**
 
-![Image](img/ex3_img50.png)
+![Image](img/6112.jpg)
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 48: 
+### Step 48: Check rules
   Observe the summary is correct.
 
-![Image](img/ex3_img51.png)
+![Image](img/6113.jpg)
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 49:
+### Step 49: Close manage models
+1. Close the 'Manage Models' page by clicking **Manage Models**
+> Screenshot taken before this step
+
+![Image](img/6114.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+## Validate enhanced model
+
+### Step 50: Test new calculated measure, and country/state rule
   
 Now we have created these rules, as well as the synonyms, we can test them:
   
@@ -649,8 +821,10 @@ Now we have created these rules, as well as the synonyms, we can test them:
   
 You may also have observed that 'Profitable' is using the new measure you recently created called 'Profit'.
 
-![Image](img/ex3_img52.png)
+![Image](img/6115.jpg)
 
+<BR>
+<BR>
 <BR>
 <BR>
 

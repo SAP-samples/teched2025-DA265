@@ -186,7 +186,7 @@ We can now open the Story in edit mode as you are the owner of this copied story
 <BR>
 <BR>
 
-### Step 11: explore data structure
+### Step 11: Explore hierarchy structure - select Corporation
 
 1. Click on **+** and another pop-down menu is shown. This exposes more about the data structures including hierarchies.
 2. Click (select) the **Corporation**
@@ -197,15 +197,15 @@ We can now open the Story in edit mode as you are the owner of this copied story
 <BR>
 <BR>
 
-### Step 12: dimension values pop-down
+### Step 12: dimension values pop-down - select Global Essence Group
   
 1. Place the cursor in the search box by clicking the **search box**.
 2. No action, just observe the pop-down box appearing with the dimension values for 'Corporation'. Without even running a query you can start to explore the data in the model.
-3. Click (select) the **Global Essence Group** value
+3. Click on the value **Global Essence Group** (a value of Corporation)
+
      
 ![Image](img/5059.jpg)
 
-
 <BR>
 <BR>
 <BR>
@@ -213,62 +213,43 @@ We can now open the Story in edit mode as you are the owner of this copied story
 
 
 
-### Step 13: explore hierarchies
+### Step 13: Add dimension Product_Category
 
-While the 'drop-down' box shows available options, another method clarifies hierarchies more effectively.
+With *Corporation Global Essence Group* selected
   
-1. Click the **+** icon (and do **NOT** use the drop-down list box, since the '+' menu exposes the model structure)
-2. Observe that Brand is a hierarchy and Corporation is under Brand. Click **Corporation**.
+1. Click the **+** icon
+2. Select the dimension **Product_Category**
 
 ![Image](img/5060.jpg)
 
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-### Step 14: 
-
-With 'Corporation' selected the 'drop-down box' now shows the values 'under Corporation'.
+### Step 14: more dimension values exposed
+The 'drop-down box' now shows the values 'under Product_Category'. These include 'Food, Drink, Other etc'. You will see these categories in the next visualisation step. 
   
-1.	Click on the value **Global Essence Group** (a value of Corporation)
+
+Just Ask exposes values these dimensions have within the data, thus allowing you to explore
+1. Press **enter**, or click **search** (without having selected any of these dimensions values)
 
 ![Image](img/5061.jpg)
 
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 15: With *Corporation Global Essence Group* selected
+### Step 15: Measure added by default
   
-1. Click the **+** icon
-2. Select the dimension **Product_Category**
-
-![Image](img/ex2_img6.png)
-
-
-<BR>
-<BR>
-
-Step 16: 
-  The 'drop-down box' now shows the values 'under Product_Category'. These include 'Food, Drink, Other etc'. You will see these categories in the next visualisation step. 
-  
-
-Just Ask exposes values these dimensions have within the data, thus allowing you to explore
-1. Press **enter**, or click **search**
-
-![Image](img/ex2_img7.png)
-
-
-<BR>
-<BR>
-
-Step 17: 
-  
-1.	You did not need to specify a measure, so a default measure has been added for you. **Observe** the message saying 'Sales was added automatically'. 
+1.	You did not need to specify a measure, so a default measure has been added for you. **Observe** the message saying 'Sales automatically added to the display result'. 
 2.	As you are happy with this visualisation, you want to add it to the story. Click **Copy**. You will soon '*paste*' it into your copied story.
 3.	Click **Exit Just Ask**
 
-![Image](img/ex2_img8.png)
+![Image](img/5062.jpg)
 
 
 <BR>
@@ -277,45 +258,45 @@ Step 17:
 <BR>
 
 
-Step 18: 
+### Step 16: Paste into Story
   
-1. Select the **Empty Page**.
+1. Select the *Global Essence Group Page**.
 2. Select the **copy/paste** icon.
 3. Select **Paste**
 
   
 If nothing is pasted, open Just Ask to access the visualisation and click **copy** again before exiting Just Ask to repeat this step.
 
-![Image](img/ex2_img15.png)
+![Image](img/5063.jpg)
 
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 19:
+### Step 19: Re-size chart and save
   
 1. **Re-size** the chart to make it larger.
 2. Press **Save**, under **File**.
 
-![Image](img/ex2_img16.png)
+![Image](img/5064.jpg)
 
 
 <BR>
 <BR>
+<BR>
+<BR>
+
+
+## Summary
 
 You have now used Just Ask to explore the data model and added a new visualisation into a story you took a copy of.
-
-<BR>
-<BR>
 
 If they have the rights, users may decide to create new Stories rather than edit copies of existing ones.
 
 
 
-<BR>
-<BR>
-## Summary
 
-You've now ...
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)

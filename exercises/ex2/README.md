@@ -220,7 +220,9 @@ Combining the ‘YTD’ and the ‘top-level’ shown just a moment ago with the
 <BR>
 
   
-### Step  17: **No action in this step**. Observe the Version has been set
+### Step  17: Version + chart type has been set automatically
+
+**No action in this step**. Observe the Version has been set
   
 1. Click on **Version**
 2. Observe that both Actual and Forecast versions have been selected for you.
@@ -233,7 +235,9 @@ Combining the ‘YTD’ and the ‘top-level’ shown just a moment ago with the
 <BR>
 <BR>
 
-### Step  18: Whilst a time-series chart is handy, you’re a quarterly-driven sales organisation, and you’re only interested in the *quarterly* summary. 
+### Step  18: ... by quarter than by day
+
+Whilst a time-series chart is handy, you’re a quarterly-driven sales organisation, and you’re only interested in the *quarterly* summary. 
   
 1. Type `show me trend sales actual and forecast drill by quarter`
 2. Press **enter** or click **Ask**
@@ -245,7 +249,9 @@ Combining the ‘YTD’ and the ‘top-level’ shown just a moment ago with the
 <BR>
 <BR>
 
-### Step  27: No action in this step.
+### Step  27: drill level set to Quarter
+
+No action in this step.
 
   
 
@@ -262,7 +268,9 @@ Observe the Drill has been set
 <BR>
 <BR>
 
-### Step  27: Now you’d like to turn your attention to the performance by store (type).
+### Step  28: Performance by store
+
+Now you’d like to turn your attention to the performance by store (type).
   
 
 1. Type `show me sales ytd by store as a pie chart`
@@ -275,7 +283,8 @@ Observe the Drill has been set
 <BR>
 <BR>
 
-### Step  28: No action in this step.  
+### Step  29:
+No action in this step.  
   
 Observe you can ask for the visualisation as you desire, in this case, a pie chart.
 1. Clicking on a slice shows a pop-up window with more details.
@@ -287,7 +296,7 @@ Observe you can ask for the visualisation as you desire, in this case, a pie cha
 <BR>
 <BR>
 
-### Step  29: Now the sales by state and store as a heatmap
+### Step  30: ... as a heatmap
   
 1. Type `show me the sales by state and store as heatmap`
 2. Press **enter** or click **Ask**
@@ -299,7 +308,9 @@ Observe you can ask for the visualisation as you desire, in this case, a pie cha
 <BR>
 <BR>
 
-### Step  30: No action in this step.
+### Step  31: 
+
+No action in this step.
 
   
 Observe you may interact will all charts, including simple functions such as excluding.
@@ -314,7 +325,9 @@ Observe you may interact will all charts, including simple functions such as exc
 <BR>
 <BR>
 
-### Step  31: Now you need AI to help identify your top-performing products
+### Step  32: top-performing products
+
+Now you need AI to help identify your top-performing products
   
 1. Type `top 3 product by sales and state`
 2. Press **enter** or click **Ask**
@@ -326,9 +339,10 @@ Observe you may interact will all charts, including simple functions such as exc
 <BR>
 <BR>
 
-### Step  32: No action in this step.
+### Step  33: ranking has been automatically set
 
-  
+No action in this step.
+ 
 Observe the ranking option has been selected for you
   
 1. Click on **...**
@@ -343,7 +357,9 @@ Observe the ranking option has been selected for you
 <BR>
 <BR>
 
-### Step  33: Your attention is now on the number of units sold and you want to compare 2025 units with the previous year:
+### Step  34: comparison with previous year
+
+Your attention is now on the number of units sold and you want to compare 2025 units with the previous year:
   
 1. Type `compare 2025 units with previous year`
 2. Press **enter** or click **Ask**
@@ -355,7 +371,9 @@ Observe the ranking option has been selected for you
 <BR>
 <BR>
 
-### Step  34: No action in this step.
+### Step  35: variance has been automatically set
+
+No action in this step.
   
 
 Observe the variance comparison has been selected for you with the current year also automatically selected
@@ -371,7 +389,9 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 <BR>
 
-### Step  35: Now, you want to see how the 2025 units compare to previous years for each store.
+### Step  36: ... for each store
+
+Now, you want to see how the 2025 units compare to previous years for each store.
   
 1. Type `compare 2025 units with previous year by store`
 2. Press **enter**, or click **Ask**
@@ -383,7 +403,9 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 <BR>
 
-### Step  36: No action in this step. Observe the variance has been applied across the bar chart.
+### Step  37: variance applied for each store
+
+No action in this step. Observe the variance has been applied across the bar chart.
 
 ![Image](img/2036.jpg)
 
@@ -392,7 +414,9 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 <BR>
 
-### Step 37: You’re now curious about how figures are as a percentage difference so adding 'as %' or 'as pecentage' to the question.
+### Step 38: ... as %
+
+You’re now curious about how figures are as a percentage difference so adding 'as %' or 'as pecentage' to the question.
   
 1. Type `compare 2025 units with previous year by store as %`
 2. Press **enter** or click **Ask**
@@ -404,7 +428,9 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 <BR>
 
-### Step 38 No action in this step. Observe the variance percentage shows that each store has sold exactly 10% more than last year.
+### Step 39: % variance added
+
+ No action in this step. Observe the variance percentage shows that each store has sold exactly 10% more than last year.
 
 ![Image](img/2038.jpg)
 
@@ -414,7 +440,9 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 
 
-### Step 39: You’re now interested in comparing units sold with the forecast, and for the current month
+### Step 40: ... with forecast values for current month
+
+You’re now interested in comparing units sold with the forecast, and for the current month
   
 1. Type `compare actual units with forecast for this month`
 2. Press **enter** or click **Ask**
@@ -428,7 +456,9 @@ Observe the variance comparison has been selected for you with the current year 
 
 
 
- ### Step 40: No action in this step. Observe the current month has been selected for you. (Screenshot taken in October 2025)
+ ### Step 41: current month has been automatically set
+ 
+ No action in this step. Observe the current month has been selected for you. (Screenshot taken in October 2025)
   
 1. Click on **Date**
 2. Expand **all**
@@ -445,7 +475,9 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 <BR>
 
-### Step 41: Your focus now turns to brands with over 1 millions units sold last year.
+### Step 42: brands over 1 million
+
+Your focus now turns to brands with over 1 millions units sold last year.
   
 1. Type `show me units for brand and corporation by state >1m for last year 
 `
@@ -458,7 +490,9 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 <BR>
 
-### Step 42: No action in this step. Observe the current month has been selected for you. (Screenshot taken in October 2025)
+### Step 43: Measure filter has been automatically set
+
+No action in this step. Observe the current month has been selected for you. (Screenshot taken in October 2025)
   
 1. Click on **Date**
 2. Expand **all**
@@ -475,7 +509,9 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 <BR>
 
-### Step 43: You want to now check the sales and expense for each store for next month
+### Step 44: Next month's sales and expense
+
+You want to now check the sales and expense for each store for next month
   
 1. Type `what are the sales and expense by store next month`
 2. Press **enter** or click **Ask**
@@ -488,7 +524,9 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 <BR>
 
-### Step 44: No action in this step. Observe the next month has been selected for you. (Screenshot taken in October 2025)
+### Step 45: Next month has been automatically set 
+
+No action in this step. Observe the next month has been selected for you. (Screenshot taken in October 2025)
   
 1. Click on **Date**
 2. Expand **all**
@@ -505,7 +543,9 @@ Observe the complexities of the filtering and variance comparison have all been 
 <BR>
 <BR>
 
-### Step 45: You want to now check the sales for next month, but this time compare actuals with forecast
+### Step 46: actual v forecast
+
+You want to now check the sales for next month, but this time compare actuals with forecast
   
 1. Type `what are the sales by store next month actual and forecast  `
 2. Press **enter** or click **Ask**
@@ -518,7 +558,9 @@ Observe the complexities of the filtering and variance comparison have all been 
 <BR>
 <BR>
 
-### Step 46: No action in this step. Observe the next month has been selected for you. (Screenshot taken in October 2025).
+### Step 46: IBCS visuualizations when suitable
+
+No action in this step. Observe the next month has been selected for you. (Screenshot taken in October 2025).
 
 If your the visualisation is not as shown below, try adding `as bar chart` to your question.
 
@@ -532,9 +574,7 @@ SAP Analytics Cloud generates visualizations that are certified by the Internati
  
 ## Dynamically generated questions serve as prompts, helping you explore related inquiries.
 
-<BR>
-<BR>
-  
+
 ### Step 47: Explore suggested questions
 
 1. Observe (no action) the bottom right-hand corner has several pre-defined questions relating to the model in use.  You will use these soon, not now.
@@ -542,7 +582,8 @@ SAP Analytics Cloud generates visualizations that are certified by the Internati
 
   
   
-Optionally repeat ### Step 2 several times.
+Optionally repeat step 2 several times.
+
 
 ![Image](img/3047.jpg)
 

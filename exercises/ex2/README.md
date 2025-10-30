@@ -3,8 +3,18 @@
 As an information consumer, you want to understand how sales in your organization compare to those in the various countries where you operate.
   
 
-Step 1:
-1. Open another browser tab and access [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
+### Step  1: Access SAP Analytics Cloud
+1. Select '**Open link new window**' by right-clicking on this link to access [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
+2. You may be prompted to use the new theme, if so **select** 'Switch to Horizon'
+
+![Image](img/2009-2.jpg)
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+### Step  2: sales
 2. In the 'Just Ask' card enter `show me sales`
 3. Press **enter** or click **Ask**
 
@@ -14,8 +24,12 @@ Step 1:
 <BR>
 <BR>
 
+### Step  3: total sales (across all years)
 
-Step 2: **No action in this step**. As with Joule, the total sales in $ and by millions (m) is shown.
+**No action in this step**.  
+As with Joule, the total sales in $ and by millions (m) is shown.
+
+
 
 ![Image](img/2010.jpg)
 
@@ -24,7 +38,7 @@ Step 2: **No action in this step**. As with Joule, the total sales in $ and by m
 <BR>
 <BR>
 
-Step 4:
+### Step  4: ... by state
   
 1. Type `show me sales by state`
 2. Press **enter** or click **Ask**
@@ -36,10 +50,10 @@ Step 4:
 <BR>
 <BR>
 
-Step 5: The visualisation is interactive, just like it is within an SAP Analytics Cloud story.
-  
+### Step  5: interact
 
-You can instantly compare the performance of one state against another.
++ The visualisation is interactive, just like it is within an SAP Analytics Cloud story.
++ You can instantly compare the performance of one state against another.
 1.	Click on **Washington**, then
 2.	Click on **Ontario** to show the difference in sales performance.
 3.	Observe the pop-up showing the variance.
@@ -51,7 +65,9 @@ You can instantly compare the performance of one state against another.
 <BR>
 <BR>
 
-Step 6: A table provides an easier way to see the hierarchy of states across countries.  
+### Step  6: switch to table
+
+A table provides an easier way to see the hierarchy of states across countries.  
   
 1. Click on **Table**
 2. Click on **Mexico** and **USA** to show the Sales at the country level.
@@ -65,13 +81,15 @@ It would be nice to visualise these values which we shall do very shortly…
 <BR>
 <BR>
 
-Step 7: The results so far, are across all time. You’re keen to see year-to-date (YTD) sales.
+### Step  7: Now year-to-date
+
+The results so far, are across all time. You’re keen to see year-to-date (YTD) sales.
   
 1. Type `show me sales ytd by state`
 2. Press **enter** or click **Ask**
 
 > [!NOTE]
-> The figures in the screenshots may vary as 'year-to-date' semantics change throughout the year. Just Ask knows the current time, and the screenshots were taken in October 2025.
+> The figures in the screenshots may vary as 'year-to-date' semantics change throughout the year. Just Ask knows the current time, and the screenshots were taken in October 2025. 
 
   
 
@@ -82,7 +100,7 @@ Step 7: The results so far, are across all time. You’re keen to see year-to-da
 <BR>
 <BR>
 
-Step 8:
+### Step  8: Date filter automatically added, edit chart
   
 1. Click on ‘**Date**’ to show the date range.
 2. Observe the date selection has automatically selected the current year. Just Ask is aware of the current time.
@@ -95,7 +113,7 @@ Step 8:
 <BR>
 <BR>
 
-Step 9:
+### Step  9: add dimension 'Store'
   
 1. Click on ‘**Add Dimension**’ so we can add Store
 
@@ -106,7 +124,7 @@ Step 9:
 <BR>
 <BR>
 
-Step 10:
+### Step  10:
   
 1. Click on ‘**Store**’ to add Store to the chart
 
@@ -119,7 +137,9 @@ Step 10:
 
 
 
-Step 11: Combining the ‘YTD’ and the ‘top-level’ shown just a moment ago with the table so we can visualise that table from earlier, but with YTD values
+### Step  11: Year-to-date & top-level
+
+Combining the ‘YTD’ and the ‘top-level’ shown just a moment ago with the table so we can visualise that table from earlier, but with YTD values
   
 1. Type `show me sales ytd by state drill on top level`
 2. Press **enter** or click **Ask**
@@ -131,7 +151,7 @@ Step 11: Combining the ‘YTD’ and the ‘top-level’ shown just a moment ago
 <BR>
 <BR>
 
-Step 12: And the chart continues to be interactive, for example:
+### Step  12: And the chart continues to be interactive:
   
 1. Optionally, click on **Canada**
 2. Optionally, click on **Drill Down on State** pop-up
@@ -144,7 +164,7 @@ Step 12: And the chart continues to be interactive, for example:
 <BR>
 <BR>
 
-Step 13:
+### Step  13: Explore Data Analyser
   
 1. If *Builder* is **not** shown, click to **Expand**
 2. If *Available Objects* are **not** shown, click **Available Objects**
@@ -160,7 +180,7 @@ Step 13:
 <BR>
 <BR>
 
-Step 14: You’re keen to see of the USA is performing.
+### Step  14: You’re keen to see of the USA is performing.
   
 1. Type `show me sales ytd by state drill on country USA`
 2. Press **enter** or click **Ask**
@@ -172,7 +192,9 @@ Step 14: You’re keen to see of the USA is performing.
 <BR>
 <BR>
 
-Step 15: **No action in this step**. Observe the drill level has been set
+### Step  15: Drill level has been set automatically
+
+**No action in this step**. Observe the drill level has been set
   
 1. Click on **...**
 2. Select **Drill**
@@ -185,7 +207,7 @@ Step 15: **No action in this step**. Observe the drill level has been set
 <BR>
 <BR>
 
-Step 16: Now you’d like to see how sales are compared to forecast.
+### Step  16: Now you’d like to see how sales are compared to forecast.
   
 1. Type `show me trend sales actual and forecast`
 2. Press **enter** or click **Ask**
@@ -198,7 +220,7 @@ Step 16: Now you’d like to see how sales are compared to forecast.
 <BR>
 
   
-Step 17: **No action in this step**. Observe the Version has been set
+### Step  17: **No action in this step**. Observe the Version has been set
   
 1. Click on **Version**
 2. Observe that both Actual and Forecast versions have been selected for you.
@@ -211,7 +233,7 @@ Step 17: **No action in this step**. Observe the Version has been set
 <BR>
 <BR>
 
-Step 18: Whilst a time-series chart is handy, you’re a quarterly-driven sales organisation, and you’re only interested in the *quarterly* summary. 
+### Step  18: Whilst a time-series chart is handy, you’re a quarterly-driven sales organisation, and you’re only interested in the *quarterly* summary. 
   
 1. Type `show me trend sales actual and forecast drill by quarter`
 2. Press **enter** or click **Ask**
@@ -223,7 +245,7 @@ Step 18: Whilst a time-series chart is handy, you’re a quarterly-driven sales 
 <BR>
 <BR>
 
-Step 19: No action in this step.
+### Step  27: No action in this step.
 
   
 
@@ -240,7 +262,7 @@ Observe the Drill has been set
 <BR>
 <BR>
 
-Step 24: Now you’d like to turn your attention to the performance by store (type).
+### Step  27: Now you’d like to turn your attention to the performance by store (type).
   
 
 1. Type `show me sales ytd by store as a pie chart`
@@ -253,7 +275,7 @@ Step 24: Now you’d like to turn your attention to the performance by store (ty
 <BR>
 <BR>
 
-Step 27: No action in this step.  
+### Step  28: No action in this step.  
   
 Observe you can ask for the visualisation as you desire, in this case, a pie chart.
 1. Clicking on a slice shows a pop-up window with more details.
@@ -265,7 +287,7 @@ Observe you can ask for the visualisation as you desire, in this case, a pie cha
 <BR>
 <BR>
 
-Step 28: Now the sales by state and store as a heatmap
+### Step  29: Now the sales by state and store as a heatmap
   
 1. Type `show me the sales by state and store as heatmap`
 2. Press **enter** or click **Ask**
@@ -277,7 +299,7 @@ Step 28: Now the sales by state and store as a heatmap
 <BR>
 <BR>
 
-Step 29: No action in this step.
+### Step  30: No action in this step.
 
   
 Observe you may interact will all charts, including simple functions such as excluding.
@@ -292,7 +314,7 @@ Observe you may interact will all charts, including simple functions such as exc
 <BR>
 <BR>
 
-Step 30: Now you need AI to help identify your top-performing products
+### Step  31: Now you need AI to help identify your top-performing products
   
 1. Type `top 3 product by sales and state`
 2. Press **enter** or click **Ask**
@@ -304,7 +326,7 @@ Step 30: Now you need AI to help identify your top-performing products
 <BR>
 <BR>
 
-Step 31: No action in this step.
+### Step  32: No action in this step.
 
   
 Observe the ranking option has been selected for you
@@ -321,7 +343,7 @@ Observe the ranking option has been selected for you
 <BR>
 <BR>
 
-Step 32: Your attention is now on the number of units sold and you want to compare 2025 units with the previous year:
+### Step  33: Your attention is now on the number of units sold and you want to compare 2025 units with the previous year:
   
 1. Type `compare 2025 units with previous year`
 2. Press **enter** or click **Ask**
@@ -333,7 +355,7 @@ Step 32: Your attention is now on the number of units sold and you want to compa
 <BR>
 <BR>
 
-Step 33: No action in this step.
+### Step  34: No action in this step.
   
 
 Observe the variance comparison has been selected for you with the current year also automatically selected
@@ -349,7 +371,7 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 <BR>
 
-Step 34: Now, you want to see how the 2025 units compare to previous years for each store.
+### Step  35: Now, you want to see how the 2025 units compare to previous years for each store.
   
 1. Type `compare 2025 units with previous year by store`
 2. Press **enter**, or click **Ask**
@@ -361,7 +383,7 @@ Step 34: Now, you want to see how the 2025 units compare to previous years for e
 <BR>
 <BR>
 
-Step 35: No action in this step. Observe the variance has been applied across the bar chart.
+### Step  36: No action in this step. Observe the variance has been applied across the bar chart.
 
 ![Image](img/2036.jpg)
 
@@ -370,7 +392,7 @@ Step 35: No action in this step. Observe the variance has been applied across th
 <BR>
 <BR>
 
-Step 36: You’re now curious about how figures are as a percentage difference so adding 'as %' or 'as pecentage' to the question.
+### Step 37: You’re now curious about how figures are as a percentage difference so adding 'as %' or 'as pecentage' to the question.
   
 1. Type `compare 2025 units with previous year by store as %`
 2. Press **enter** or click **Ask**
@@ -382,7 +404,7 @@ Step 36: You’re now curious about how figures are as a percentage difference s
 <BR>
 <BR>
 
-Step 37 No action in this step. Observe the variance percentage shows that each store has sold exactly 10% more than last year.
+### Step 38 No action in this step. Observe the variance percentage shows that each store has sold exactly 10% more than last year.
 
 ![Image](img/2038.jpg)
 
@@ -392,7 +414,7 @@ Step 37 No action in this step. Observe the variance percentage shows that each 
 <BR>
 
 
-Step 38: You’re now interested in comparing units sold with the forecast, and for the current month
+### Step 39: You’re now interested in comparing units sold with the forecast, and for the current month
   
 1. Type `compare actual units with forecast for this month`
 2. Press **enter** or click **Ask**
@@ -406,7 +428,7 @@ Step 38: You’re now interested in comparing units sold with the forecast, and 
 
 
 
- Step 39: No action in this step. Observe the current month has been selected for you. (Screenshot taken in October 2025)
+ ### Step 40: No action in this step. Observe the current month has been selected for you. (Screenshot taken in October 2025)
   
 1. Click on **Date**
 2. Expand **all**
@@ -423,7 +445,7 @@ Step 38: You’re now interested in comparing units sold with the forecast, and 
 <BR>
 <BR>
 
-Step 40: Your focus now turns to brands with over 1 millions units sold last year.
+### Step 41: Your focus now turns to brands with over 1 millions units sold last year.
   
 1. Type `show me units for brand and corporation by state >1m for last year 
 `
@@ -436,7 +458,7 @@ Step 40: Your focus now turns to brands with over 1 millions units sold last yea
 <BR>
 <BR>
 
-Step 41: No action in this step. Observe the current month has been selected for you. (Screenshot taken in October 2025)
+### Step 42: No action in this step. Observe the current month has been selected for you. (Screenshot taken in October 2025)
   
 1. Click on **Date**
 2. Expand **all**
@@ -453,7 +475,7 @@ Step 41: No action in this step. Observe the current month has been selected for
 <BR>
 <BR>
 
-Step 42: You want to now check the sales and expense for each store for next month
+### Step 43: You want to now check the sales and expense for each store for next month
   
 1. Type `what are the sales and expense by store next month`
 2. Press **enter** or click **Ask**
@@ -466,7 +488,7 @@ Step 42: You want to now check the sales and expense for each store for next mon
 <BR>
 <BR>
 
-Step 43: No action in this step. Observe the next month has been selected for you. (Screenshot taken in October 2025)
+### Step 44: No action in this step. Observe the next month has been selected for you. (Screenshot taken in October 2025)
   
 1. Click on **Date**
 2. Expand **all**
@@ -483,7 +505,7 @@ Observe the complexities of the filtering and variance comparison have all been 
 <BR>
 <BR>
 
-Step 44: You want to now check the sales for next month, but this time compare actuals with forecast
+### Step 45: You want to now check the sales for next month, but this time compare actuals with forecast
   
 1. Type `what are the sales by store next month actual and forecast  `
 2. Press **enter** or click **Ask**
@@ -496,7 +518,7 @@ Step 44: You want to now check the sales for next month, but this time compare a
 <BR>
 <BR>
 
-Step 45: No action in this step. Observe the next month has been selected for you. (Screenshot taken in October 2025).
+### Step 46: No action in this step. Observe the next month has been selected for you. (Screenshot taken in October 2025).
 
 If your the visualisation is not as shown below, try adding `as bar chart` to your question.
 
@@ -513,14 +535,14 @@ SAP Analytics Cloud generates visualizations that are certified by the Internati
 <BR>
 <BR>
   
-Step 46: Explore suggested questions
+### Step 47: Explore suggested questions
 
 1. Observe (no action) the bottom right-hand corner has several pre-defined questions relating to the model in use.  You will use these soon, not now.
 2. The top right-hand corner has several dynamically created questions you can ask. **Click** one of these.
 
   
   
-Optionally repeat step 2 several times.
+Optionally repeat ### Step 2 several times.
 
 ![Image](img/3047.jpg)
 

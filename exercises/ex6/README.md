@@ -1,15 +1,19 @@
-# Exercise 6 - Comparing 'Joule Analytical Insights' with 'Joule *with* SAP Analytics Cloud'
+# Exercise 6 - Comparing 'Joule Analytical Insights' with 'Just Ask'
 
 ...coming soon.
 
-## Updating model dimension values
+## Joule Analytical Insights
 
-### Step 1: Open Brand Dimension
+coming soon.
 
-> The model should already be open from an earlier exercise. If not, please open your copied model 'DA256 Sales' from the root of 'My Files'
-1. Select the **Model Structure**
-2. No action. Validate that the model is the correct model 'DA265 Sales'
-2. Click on the **Edit Dimension Table** for the ***Brand*** dimesnion
+
+### Step 1: Open Story in edit mode
+
+
+1. Click to **Expand the navigation bar**
+2. Select **Files**
+3. For the ***'Sales Summary'*** Story, click **...** and **Open in Story Edit Mode**
+
 
 ![Image](img/8142.jpg)
   
@@ -19,12 +23,13 @@
 <BR>
 <BR>
 
-### Step 2: Rename 'Global Essence Group' to 'Global Essence Inc', open Just Ask
-  
-1. Rename the 'Corporation' value for 'Even Better' from '**Global Essence Group**' to `Global Essence Inc`
-2. Rename the 'Corporation' value for 'Hermanos' from '**Global Essence Group**' to `Global Essence Inc`
-3. Click **Save**.
-4. Open Just Ask by clicking on the **Just Ask** icon.
+### Step 2: Open a page and access Joule
+
+1. Click to **Collapse the navigation bar**
+2. Select the page ***'Just ask v Joule with Just Ask'*** 
+3. Click the ***Joule*** icon to open Joule
+4. Click the **Menu**
+5. Click to add a **New Conversation**
 
 ![Image](img/8143.jpg)
   
@@ -36,13 +41,8 @@
 
 ### Step 3: Old values shown by Just Ask
 
-1. Click on the **Just Ask** logo to show the home page
-2. Click on the **+** icon and select **Corporation**
-3. Observe the list of values shown include the old value 'Global Essence Group' and not the updated value 'Global Essence Inc'
-
-> Screenshot taken between steps 2 and 3
-
-It means that we need to re-index the model for these new values to be shown within the Just Ask interface.
+1. Enter `show me sales` 
+2. Press enter or click **send**
 
 ![Image](img/8144.jpg)
   
@@ -52,12 +52,14 @@ It means that we need to re-index the model for these new values to be shown wit
 <BR>
 <BR>
 
-## Re-sync model
+### Step 4: Select DA265 at the prompt
 
-### Step 4: Open TechEd model
+As two models can answer this question on ‘show me sales’, Joule needs to prompt which one should be used for the analytical insight.
+
+Two models are displayed: the original sample model and your now-enhanced copy, called **‘DA265 Sales’**. This model also has an alias of **‘TechEd’** and a label also called **‘TechEd’**
+
   
-1. Select **Manage Models**
-2. Select the **TechEd (DA265 Sales)** model
+1. Select **DA265 Sales**
 
 
 ![Image](img/8145.jpg)
@@ -68,11 +70,14 @@ It means that we need to re-index the model for these new values to be shown wit
 <BR>
 <BR>
 
-### Step 5: Sync-model
+### Step 5: Question avoiding the model prompt
 
-1. Click **Sync model**
+We can avoid the prompt by telling Joule which model to use by adding `for DA265` to the question.
+
+1. Enter `show me sales for da265` 
+2. Press enter or click **send**
   
-Re-syncing the model will re-index the values. It will also re-read the data structures and any other changes you've made, such as adding calculated measures. 
+
 
 ![Image](img/8146.jpg)
   
@@ -82,11 +87,14 @@ Re-syncing the model will re-index the values. It will also re-read the data str
 <BR>
 <BR>
 
-### Step 6: Confirm
+### Step 6: Copy-paste, ask another question
   
-Sometimes the model synchronisation takes a long time, so it's handy to have the option to cancel if you accidentally press ‘sync’
+With Joule Analytical Insights we can easily copy and paste any visualisation into a Story.
   
-1.	Click **Sync model**
+1. Click **Copy**
+2. Select **Paste** which will paste the visualisation from Joule Analytical Insights into our story.
+3. Enter `show me sales by store for da265` 
+4. Press enter or click **send**
 
 ![Image](img/8147.jpg)
 
@@ -96,9 +104,12 @@ Sometimes the model synchronisation takes a long time, so it's handy to have the
 <BR>
 
 
-### Step 7: Indexing in progress
+### Step 7: Explore Joule Analytical Insights
   
-No action. Please be patient while the model is re-indexed.
+Joule Analytical Insights also enables us to explore the visualisation and enhance it as we see fit.  Whilst we could just ask for a pie-chart, we shall explore to see the benefits.
+
+1. Click **Explore**
+
 ![Image](img/8148.jpg)
 
 <BR>
@@ -108,7 +119,7 @@ No action. Please be patient while the model is re-indexed.
 
 ### Step 8: Exit manage models
   
-1. Close the Manage Models page by clicking **Manage Models**
+1. Close the Manage Models page by clicking **Edit Chart**
 
 
 ![Image](img/8149.jpg)

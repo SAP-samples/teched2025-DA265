@@ -26,8 +26,10 @@ coming soon.
 
 1. Enter `show me grocery store sales for teched`
 2. Press enter or click the **send** icon
+3. Click **'Expand'** so we have more space to work.
 
-> We used the term '***for teched***' to refer to enchanced model. ***TechEd*** is the alias name for the model.
+> We used the term '***for teched***' to refer to our enchanced, copied, model. ***TechEd*** is the alias name for the model 'DA265'.
+> The benefit of adding an alias and label to the model can be seen here. 
 
 ![Image](img/9154.jpg)
   
@@ -37,10 +39,18 @@ coming soon.
 <BR>
 <BR>
 
-### Step 3: Old values shown by Just Ask
+### Step 3: Validate synonyms, rules, and default time for the new model; pose a question to multiple models
 
-1. Enter `show me sales` 
-2. Press enter or click **send**
+1. There are several key points to note here. Each has improved the user experience:
+
+	+ The model’s name has been confirmed back to you '**TechEd**'.
+	+ The synonym for '*grocery*' has worked as a filter and has been applied to both grocery stores. The user didn't need to specify each store name individually. 
+	+ The default time period has been applied, which means the sales correspond to the current year values, rather than all time.
+
+2. Enter `show me units by brand` 
+3. Press enter or click **send**
+
+> Asking for 'units by brand' is a question that can be satisfied by both models, so we should expect a prompt.
 
 ![Image](img/9155.jpg)
   
@@ -50,14 +60,14 @@ coming soon.
 <BR>
 <BR>
 
-### Step 4: Select DA265 at the prompt
+### Step 4: Resolve prompt 'TechEd'
 
-As two models can answer this question on ‘show me sales’, Joule needs to prompt which one should be used for the analytical insight.
+As two models can answer this question on ‘show me units by brand’, Joule needs to prompt which one should be used for the analytical insight.
 
-Two models are displayed: the original sample model and your now-enhanced copy, called **‘DA265 Sales’**. This model also has an alias of **‘TechEd’** and a label also called **‘TechEd’**
+Two models are displayed: the original sample model and your now-enhanced copy, shown here as **‘TechEd’**. This model also has an alias of **‘TechEd’** and a label with the same name, **‘TechEd’**. With Joule Analytical Insights' (Joule within SAP Analytics Cloud), the same model appears as **‘DA265 Sales’**. As mentioned, this behaviour may change once it's out of beta.
 
   
-1. Select **DA265 Sales**
+1. Select **TechEd**
 
 
 ![Image](img/9156.jpg)
@@ -68,12 +78,11 @@ Two models are displayed: the original sample model and your now-enhanced copy, 
 <BR>
 <BR>
 
-### Step 5: Question avoiding the model prompt
+### Step 5: Validate date rule has been applied
 
 We can avoid the prompt by telling Joule which model to use by adding `for DA265` to the question.
 
-1. Enter `show me sales for da265` 
-2. Press enter or click **send**
+1. Note that we requested Units. You might recall we added a rule for Units, so 'date' is always included. This results in a very busy and somewhat difficult-to-understand chart. It also indicates that considerations, such as rules, should be verified by the business user for both Just Ask and separately Joule. In some cases, you may need to limit options with Joule to prevent complex visualisations.
   
 
 
@@ -85,14 +94,13 @@ We can avoid the prompt by telling Joule which model to use by adding `for DA265
 <BR>
 <BR>
 
-### Step 6: Copy-paste, ask another question
+### Step 6: Open Model to limit access to Just Ask
   
-With Joule Analytical Insights we can easily copy and paste any visualisation into a Story.
-  
-1. Click **Copy**
-2. Select **Paste** which will paste the visualisation from Joule Analytical Insights into our story.
-3. Enter `show me sales by store for da265` 
-4. Press enter or click **send**
+In some instances, you might find that a model is simply too complex to be accessible through Joule. In such cases, we can disable a model for Joule access while still allowing Just Ask access. 
+1. Click **SAP Analytics Cloud** browser tab
+2. Close Joule for Analytical Insights by clicking the **Joule** icon.
+3. Open Just Ask, by clicking the **Just Ask** icon
+4. Open the model **TechEd (DA265 Sales)**
 
 ![Image](img/9158.jpg)
 
@@ -102,11 +110,10 @@ With Joule Analytical Insights we can easily copy and paste any visualisation in
 <BR>
 
 
-### Step 7: Explore Joule Analytical Insights
+### Step 7: Disabled 'TechEd' for Joule
   
-Joule Analytical Insights also enables us to explore the visualisation and enhance it as we see fit.  Whilst we could just ask for a pie-chart, we shall explore to see the benefits.
 
-1. Click **Explore**
+1. Change the visibility to **Enabled for Just Ask only**
 
 ![Image](img/9159.jpg)
 
@@ -115,9 +122,14 @@ Joule Analytical Insights also enables us to explore the visualisation and enhan
 <BR>
 <BR>
 
-### Step 8: Exit manage models
+### Step 8: Test TechEd is no longer visibile to Joule
   
-1. Close the Manage Models page by clicking **Edit Chart**
+1. Click back to the browser **Workzone tab** (not shown in screenshot)
+2. Select **+ New Conversation**
+3. Enter `show me units by brand` 
+4. Press enter or click **send**
+
+> This is the same prompt we used earlier resulted in Joule prompting for a model 
 
 
 ![Image](img/9160.jpg)
@@ -127,12 +139,9 @@ Joule Analytical Insights also enables us to explore the visualisation and enhan
 <BR>
 <BR>
 
-### Step 9: Re-test
+### Step 9: Check no prompt
   
-1. Click on the **+** icon and select **Corporation**
-2. Note that the list of values now includes the newly updated value, 'Global Essence Inc.'
-
-> Screenshot taken between steps 2 and 3
+1. Note the model **TechEd** is no longer available and so the result shown is from the 'Sales' model as described.
 
 ![Image](img/9161.jpg)
 
@@ -142,67 +151,9 @@ Joule Analytical Insights also enables us to explore the visualisation and enhan
 <BR>
 
 
-
-
-### Step 10: Open TechEd model
-  
-1. Select **Manage Models**
-2. Select the **TechEd (DA265 Sales)** model
-
-![Image](img/9162.jpg)
-
-<BR>
-<BR>
-<BR>
-<BR>
-
-### Step 11: Disable members for Corporation
-  
-1. Click the **Edit show in search preferences** icon
-2. For the **'Corporation'** dimension de-select the **include** under 'Members'
-3. Click **Save**
-
-> The 'Show in search' option is very useful.
-> + When you remove a dimension from the search, it no longer appears in Just Ask. This helps simplify what users see and avoids confusion between similar measures, dimensions, or their values. 
-> + We will not disable this 'Show in search' option in this workshop but for real-life models you are likely to need it.
-
-![Image](img/9163.jpg)
-
-<BR>
-<BR>
-<BR>
-<BR>
-
-### Step 12: Confirm save
-  
-1. Click **Save**
-
-![Image](img/8140.jpg)
-
-<BR>
-<BR>
-<BR>
-<BR>
-
-
-### Step 13: Test
-  
-1. Close the Manage Models page by clicking **Manage Models**
-2. Click on the **+** icon and select **Corporation**
-3. Note that no longer are there any values displayed for Corporation. Users can still filter values; they just need to type the value instead of selecting it from a list. Removing the list in Just Ask simply prevents these values from appearing in the interface.
-4. Click **Exit Just Ask**
-
-
-![Image](img/8141.jpg)
-
-<BR>
-<BR>
-<BR>
-<BR>
-
 ## Summary
 
 
-
+Coming soon
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)

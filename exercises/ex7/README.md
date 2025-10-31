@@ -1,8 +1,8 @@
-# Exercise 6 - Comparing 'Joule Analytical Insights' with 'Just Ask'
+# Exercise 7 - Revisting Joule
 
 ...coming soon.
 
-## Joule Analytical Insights
+## Joule 
 
 coming soon.
 
@@ -15,7 +15,7 @@ coming soon.
 3. For the ***'Sales Summary'*** Story, click **...** and **Open in Story Edit Mode**
 
 
-![Image](img/8142.jpg)
+![Image](img/9153.jpg)
   
 
 <BR>
@@ -31,7 +31,7 @@ coming soon.
 4. Click the **Menu**
 5. Click to add a **New Conversation**
 
-![Image](img/8143.jpg)
+![Image](img/9154.jpg)
   
 
 <BR>
@@ -44,7 +44,7 @@ coming soon.
 1. Enter `show me sales` 
 2. Press enter or click **send**
 
-![Image](img/8144.jpg)
+![Image](img/9155.jpg)
   
 
 <BR>
@@ -62,7 +62,7 @@ Two models are displayed: the original sample model and your now-enhanced copy, 
 1. Select **DA265 Sales**
 
 
-![Image](img/8145.jpg)
+![Image](img/9156.jpg)
  
 
 <BR>
@@ -79,7 +79,7 @@ We can avoid the prompt by telling Joule which model to use by adding `for DA265
   
 
 
-![Image](img/8146.jpg)
+![Image](img/9157.jpg)
   
 
 <BR>
@@ -96,7 +96,7 @@ With Joule Analytical Insights we can easily copy and paste any visualisation in
 3. Enter `show me sales by store for da265` 
 4. Press enter or click **send**
 
-![Image](img/8147.jpg)
+![Image](img/9158.jpg)
 
 <BR>
 <BR>
@@ -110,7 +110,7 @@ Joule Analytical Insights also enables us to explore the visualisation and enhan
 
 1. Click **Explore**
 
-![Image](img/8148.jpg)
+![Image](img/9159.jpg)
 
 <BR>
 <BR>
@@ -119,27 +119,83 @@ Joule Analytical Insights also enables us to explore the visualisation and enhan
 
 ### Step 8: Exit manage models
   
-1. Click **Edit Chart**
-2. Change the Chart to **Pie**
-3. Click **Copy** to copy this chart
-4. Click **Close**
+1. Close the Manage Models page by clicking **Edit Chart**
 
 
-![Image](img/8149.jpg)
+![Image](img/9160.jpg)
 
 <BR>
 <BR>
 <BR>
 <BR>
 
-### Step 9: Paste into Story
+### Step 9: Re-test
   
-1. Click on the **Paste** icon to paste the visualisation we *enhanced(!)* from Joule Analytical Insights
+1. Click on the **+** icon and select **Corporation**
+2. Note that the list of values now includes the newly updated value, 'Global Essence Inc.'
+
+> Screenshot taken between steps 2 and 3
+
+![Image](img/9161.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
 
 
-![Image](img/8150.jpg)
 
 
+### Step 10: Open TechEd model
+  
+1. Select **Manage Models**
+2. Select the **TechEd (DA265 Sales)** model
+
+![Image](img/9162.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 11: Disable members for Corporation
+  
+1. Click the **Edit show in search preferences** icon
+2. For the **'Corporation'** dimension de-select the **include** under 'Members'
+3. Click **Save**
+
+> The 'Show in search' option is very useful.
+> + When you remove a dimension from the search, it no longer appears in Just Ask. This helps simplify what users see and avoids confusion between similar measures, dimensions, or their values. 
+> + We will not disable this 'Show in search' option in this workshop but for real-life models you are likely to need it.
+
+![Image](img/9163.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+### Step 12: Confirm save
+  
+1. Click **Save**
+
+![Image](img/8140.jpg)
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+### Step 13: Test
+  
+1. Close the Manage Models page by clicking **Manage Models**
+2. Click on the **+** icon and select **Corporation**
+3. Note that no longer are there any values displayed for Corporation. Users can still filter values; they just need to type the value instead of selecting it from a list. Removing the list in Just Ask simply prevents these values from appearing in the interface.
+4. Click **Exit Just Ask**
+
+
+![Image](img/8141.jpg)
 
 <BR>
 <BR>
@@ -149,7 +205,6 @@ Joule Analytical Insights also enables us to explore the visualisation and enhan
 ## Summary
 
 
-coming soon!
 
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)

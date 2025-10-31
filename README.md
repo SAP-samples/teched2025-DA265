@@ -21,10 +21,10 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - Use case 2: Information consumer](exercises/ex2/)
 - [Exercise 3 - Use case 3: Explore the data model and find additional insights](exercises/ex3/)
 - [Exercise 4 - Enhance the user experience](exercises/ex4/)
-- [Exercise 5 - Use case 1: Workzone user](exercises/ex5/)
-- [Exercise 6 - Use case 1: Workzone user](exercises/ex6/)
-- [Exercise 7 - Use case 1: Workzone user](exercises/ex7/)
-- [Exercise 8 - Use case 1: Workzone user](exercises/ex8/)
+- [Exercise 5 - Understanding Indexing](exercises/ex5/)
+- [Exercise 6 - Comparing 'Joule Analytical Insights' with 'Just Ask'](exercises/ex6/)
+- [Exercise 7 - Revisting Joule](exercises/ex7/)
+- [Exercise 8 - AI-Assisted Commenting](exercises/ex8/)
 
   
 

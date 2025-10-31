@@ -100,7 +100,3 @@ There are many comments made to the States of the USA in this model. We could re
 
 ## Summary
 
-
-Coming soon
-
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)

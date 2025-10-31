@@ -1012,4 +1012,4 @@ Our users could not recognise that Country was a dimension and that the State in
 
 
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 5 - Understanding Indexing](../ex5/README.md)

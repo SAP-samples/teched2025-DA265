@@ -210,4 +210,4 @@ Although we have access to all dimension member values, as the model owner, the 
 
 
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 6 - Comparing 'Joule Analytical Insights' with 'Just Ask'](../ex6/README.md)

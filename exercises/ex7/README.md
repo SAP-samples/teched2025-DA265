@@ -156,4 +156,4 @@ In some instances, you might find that a model is simply too complex to be acces
 
 Coming soon
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 8 - AI-Assisted Commenting](../ex7/README.md)

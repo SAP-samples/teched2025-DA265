@@ -109,5 +109,4 @@ A very simple question, but you’d like to see how your sales are performing co
 
 You've now used Joule to access Analytics Insights.
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
-
+Continue to - [Exercise 2 - Use case 2: Information consumer](../ex2/README.md)

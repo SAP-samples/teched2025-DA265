@@ -304,4 +304,4 @@ If they have the rights, users may decide to create new Stories rather than edit
 
 
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 4 - Enhance the user experience](../ex4/README.md)

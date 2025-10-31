@@ -595,4 +595,4 @@ Optionally repeat step 2 several times.
 
 You've now ...
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Use case 3: Explore the data model and find additional insights](../ex3/README.md)

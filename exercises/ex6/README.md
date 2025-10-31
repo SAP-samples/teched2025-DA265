@@ -2,7 +2,7 @@
 
 ...coming soon.
 
-## Joule Analytical Insights
+## Joule Analytical Insights (this is currently in beta)
 
 coming soon.
 
@@ -23,7 +23,7 @@ coming soon.
 <BR>
 <BR>
 
-### Step 2: Open a page and access Joule
+### Step 2: Open a page and access Joule (beta)
 
 1. Click to **Collapse the navigation bar**
 2. Select the page ***'Just ask v Joule with Just Ask'*** 
@@ -32,14 +32,15 @@ coming soon.
 5. Click to add a **New Conversation**
 
 ![Image](img/8143.jpg)
-  
+
+> It’s important to note that Joule Analytical Insights is currently in beta and not generally available. This means some features are not yet complete, and you may encounter a few anomalies and issues.
 
 <BR>
 <BR>
 <BR>
 <BR>
 
-### Step 3: Old values shown by Just Ask
+### Step 3: Show me sales
 
 1. Enter `show me sales` 
 2. Press enter or click **send**
@@ -77,7 +78,7 @@ We can avoid the prompt by telling Joule which model to use by adding `for DA265
 1. Enter `show me sales for da265` 
 2. Press enter or click **send**
   
-
+> 
 
 ![Image](img/8146.jpg)
   

@@ -7,12 +7,11 @@
 coming soon.
 
 
-### Step 1: Open Story in edit mode
+### Step 1: Switch to Joule in Workzone, start a new conversation
 
 
-1. Click to **Expand the navigation bar**
-2. Select **Files**
-3. For the ***'Sales Summary'*** Story, click **...** and **Open in Story Edit Mode**
+1. Click back to the browser **Workzone tab** 
+2. Select **+ New Conversation**
 
 
 ![Image](img/9153.jpg)
@@ -25,11 +24,10 @@ coming soon.
 
 ### Step 2: Open a page and access Joule
 
-1. Click to **Collapse the navigation bar**
-2. Select the page ***'Just ask v Joule with Just Ask'*** 
-3. Click the ***Joule*** icon to open Joule
-4. Click the **Menu**
-5. Click to add a **New Conversation**
+1. Enter `show me grocery store sales for teched`
+2. Press enter or click the **send** icon
+
+> We used the term '***for teched***' to refer to enchanced model. ***TechEd*** is the alias name for the model.
 
 ![Image](img/9154.jpg)
   

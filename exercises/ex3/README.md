@@ -1,4 +1,4 @@
-# Exercise 3 - Use case 2: Explore the data model and find additional insights
+# Exercise 3 - Use case 3: Explore the data model and find additional insights
   
 This exercise will explore the data within a model without relying on IT to create any artefacts beforehand. Typically, IT will appropriately limit the scope of user stories and other artefacts, as the array of possibilities can be too vast for the time and effort required to cover all possibilities.
   

@@ -17,15 +17,14 @@ The requirements to follow the exercises in this repository are...
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - Joule Analytical Insights](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - SAP Analytics Cloud just ask](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-- [Exercise 3 - Joule with SAP Analytics Cloud](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Exercise 1 - Use case 1: Workzone user](exercises/ex1/)
+- [Exercise 2 - Use case 2: Information consumer](exercises/ex2/)
+- [Exercise 3 - Use case 3: Explore the data model and find additional insights](exercises/ex3/)
+- [Exercise 4 - Enhance the user experience](exercises/ex4/)
+- [Exercise 5 - Use case 1: Workzone user](exercises/ex5/)
+- [Exercise 6 - Use case 1: Workzone user](exercises/ex6/)
+- [Exercise 7 - Use case 1: Workzone user](exercises/ex7/)
+- [Exercise 8 - Use case 1: Workzone user](exercises/ex8/)
 
   
 

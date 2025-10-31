@@ -158,4 +158,4 @@ Joule Analytical Insights also enables us to explore the visualisation and enhan
 coming soon!
 
 
-Continue to - [Exercise 7 - Revisting Joule]](../ex7/README.md)
+Continue to - [Exercise 7 - Revisting Joule](../ex7/README.md)

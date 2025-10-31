@@ -2,8 +2,19 @@
 
 # Exercise 1: Use case 1: Workzone user
 
-As an information consumer, you want to understand how sales in your organization compare to those in the various countries where you operate.
-  
+## Overview
+
+### Persona
+
+As an SAP Workzone user, you want to gain analytical insights without leaving the platform. Although you are an expert in your field, your limited time and experience with analytic tools make natural language your preferred interface.
+
+### Objective
+
+You will use Joule within SAP Workzone to access sales data. Engaging in a conversation with Joule will help you refine your questions and obtain the insights you need.
+
+Following this initial engagement, later exercises will highlight areas for improvement so the user experience can be enhanced, making life even easier for users.
+
+## Instructions
 
 ### Step 1: Open Workzone
 1. Select 'Open link new window' by right-clicking on this link to [SAP Workzone](https://six-joule-sac-teched25.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=0ec917b6-0536-46a8-9bff-df00dd211f8a#Shell-home)
@@ -107,6 +118,9 @@ A very simple question, but you’d like to see how your sales are performing co
 
 ## Summary
 
-You've now used Joule to access Analytics Insights.
+Joule delivers analytic insights using natural language, accessing data models you are authorised to view.
++ Conversations are saveable and can be revisited later.
++ Each conversation maintains a ‘context’, shown during interactions- allowing you to define your questions without reintroducing previous prompts.
+
 
 Continue to - [Exercise 2 - Use case 2: Information consumer](../ex2/README.md)

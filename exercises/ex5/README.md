@@ -192,7 +192,11 @@ Although we have access to all dimension member values, as the model owner, the 
 
 ### Step 13: Test
   
-1. Click **Save**
+1. Close the Manage Models page by clicking **Manage Models**
+2. Click on the **+** icon and select **Corporation**
+3. Note that no longer are there any values displayed for Corporation. Users can still filter values; they just need to type the value instead of selecting it from a list. Removing the list in Just Ask simply prevents these values from appearing in the interface.
+4. Click **Exit Just Ask**
+
 
 ![Image](img/8141.jpg)
 

@@ -968,7 +968,7 @@ Our users could not recognise that Country was a dimension and that the State in
 <BR>
 
 
-### Step 60: Save
+### Step 60: Country is now a dimension
 
 1. Observe the countries are now shown as a unique dimension.
 2. Save this question by clicking **+ Country Sales**
@@ -980,167 +980,28 @@ Our users could not recognise that Country was a dimension and that the State in
 <BR>
 <BR>
 
-### Adding model labels
-
-Model lables can help Just Ask identify the right model, when there are many available. Its good practice to use them.
-
-<BR>
-<BR>
 
   
-Step 53:
+### Step 61: Save question to 'TechEd'
   
-1. Select **Model Labels**
-2. Click **Create Label**
+1. Click **Save**
 
-![Image](img/ex3_img56.png)
+![Image](img/6127.jpg)
 
 <BR>
 <BR>
+<BR>
+<BR>
 
-Step 54:
+### Step 62: Exit Just Ask
   
-1. Enter `Sales 0${number}`
-2. Press **Save**.
-  
-If you accidently use a label called 'Sales', you will not be able to save it, as one of this name already exists.
-
-![Image](img/ex3_img57.png)
+1. Click **Exit Just AsK**
+![Image](img/6128.jpg)
 
 <BR>
 <BR>
-
-Step 55: 
-  Edit the label 'Sales0${number}'.
-
-![Image](img/ex3_img58.png)
-
 <BR>
 <BR>
-
-Step 56: 
-1. Use the drop-down box to select your model **Just Ask Sales 0${number}**.
-2. Press **Save**
-
-![Image](img/ex3_img59.png)
-
-<BR>
-<BR>
-
-Step 57: 
-  Exit the manage models, by selecting **Manage Models**.
-
-![Image](img/ex3_img60.png)
-  
-
-### Validate model behaviour
-
-You have completed the necessary changes to both the model and the Just Ask model administration. Now, it's time to validate and compare your new model with the original to assess the benefits of your investment.
-
-<BR>
-<BR>
-
-Step 58: 
-  
-1. Open Just Ask, and select your model from the list of indexed models **Sales 0${number}**. Example here shown is for 'Sales 001'
-2. Observe the label used.
-
-![Image](img/ex3_img61.png)
-
-<BR>
-<BR>
-
-Step 59:
-  
-1. Click on ***+***
-2. **Scroll down**
-3. Click **Country**, which is now shown and is a parent of 'State'
-
-![Image](img/ex3_img62.png)
-
-<BR>
-<BR>
-
-Step 60: The drop-down box now shows values for 'Country' (previously, it did not). Select **USA**.
-
-![Image](img/ex3_img63.png)
-
-<BR>
-<BR>
-
-Step 61: 
-  
-1. The drop-down box now shows the measure for 'Profit' (previously, it did not). Select **Profit**.
-2. Press **enter**, or click **search**.
-
-![Image](img/ex3_img64.png)
-
-<BR>
-<BR>
-
-Step 62:
-  
-1. With your model still selected enter `Country Profit` or use the **+** interface to select the same.
-2. Press enter or click search.
-
-![Image](img/ex3_img65.png)
-
-<BR>
-<BR>
-
-Step 63:
-  
-1. Observe that 'Profit per Country' is now possible, thanks to the new calculated measure and the custom property added to the 'State' dimension.
-2. Save this question, by clicking **country profit** under 'Save question'.
-
-![Image](img/ex3_img66.png)
-
-<BR>
-<BR>
-
-Step 64:
-  
-Now we shall ask the same question of the original model to compare the previous step
-  
-1. Use the model selection
-2. Select the original **Just_Ask_Sakes_master_start** model
-3. **De-select** your new model 'Sales 0${number}'
-4. With the same search, `Country Profit`, press **enter**, or click **search**
-
-![Image](img/ex3_img67.png)
-
-<BR>
-<BR>
-
-Step 65:
-  
-1. Observe the notification that 'Sales' was added, and therefore profit wasn’t recognised.
-2. Observe that 'State' was used in place of 'Country'. Just Ask knowns that 'Country' is part of the 'State' dimension because it’s the meta-data name of a parent-child hierarchy within the dimension. However, it's not identified as a unique dimension as we would like it to be for our use case.
-
-![Image](img/ex3_img68.png)
-
-<BR>
-<BR>
-
-### Consume saved question
-
-We can consume the question we saved just earlier. In practice, you should have a good handful before letting your users access.
-
-Step 66: 
-  
-1. Return to the home page of **Just Ask**
-2. Open the **Sample Questions**
-3. Open the model **Sales 0${number}**
-4. Optionally open your **saved question**.
-
-![Image](img/ex3_img69.png)
-
-<BR>
-<BR>
-
-> [!TIP|icon:fa-solid fa-check|label:Congratulations]
-> You have completed exercise 3 of 4.
-
 
 
 

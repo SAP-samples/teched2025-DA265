@@ -251,7 +251,7 @@ Just Ask can't create new calculations on the fly, but it can use existing ones 
 
 ### Step 21: continue the formula
   
-1. Once, \[Sales\] has been selected as shown, type the 4 characters `-[ex`
+1. Once, \[Sales\] has been selected as shown, type the 3 characters `-[e`
 2. A pop-up box will appear and select **\[Expense\]**
 
 ![Image](img/6079.jpg)

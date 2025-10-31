@@ -1,7 +1,16 @@
 # Exercise 2 - Use case 2: Information Consumer
 
-As an information consumer, you want to understand how sales in your organization compare to those in the various countries where you operate.
+## Overview
+
+### Persona
+
+As an information user and occasional SAP Analytics Cloud user, though not an expert, you want to compare your organization's sales across different countries. While you're familiar with SAP Analytics Cloud, you prefer using a natural language interface to ask simple analytic questions. 
   
+### Objective
+
+
+
+## Instructions
 
 ### Step  1: Access SAP Analytics Cloud
 1. Select '**Open link new tab**' by right-clicking on this link to access [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)

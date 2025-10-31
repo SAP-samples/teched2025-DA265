@@ -4,7 +4,7 @@ As an information consumer, you want to understand how sales in your organizatio
   
 
 ### Step  1: Access SAP Analytics Cloud
-1. Select '**Open link new window**' by right-clicking on this link to access [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
+1. Select '**Open link new tab**' by right-clicking on this link to access [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
 2. You may be prompted to use the new theme, if so **select** 'Switch to Horizon'
 
 ![Image](img/2009-2.jpg)
@@ -349,6 +349,8 @@ Observe the ranking option has been selected for you
 2. Click on **Rank**
 3. Click on **All Dimensions**
 4. Observe **Top 3** has been selected for you. 
+
+> If this visualisation differs from the one shown, please try again and inform your SAP workshop instructor. This will help us determine if a previous issue has been fully resolved.
 
 ![Image](img/2032.jpg)
 

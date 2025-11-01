@@ -218,7 +218,12 @@ Although we have access to all dimension member values, as the model owner, the 
 
 ## Summary
 
+You now understand the different types of metadata stored by Just Ask, specifically:
++ Dimension values are imported by Just Ask and managed separately from the model, meaning a re-sync is required when the data model values change.
++ Sensitive dimensions, especially those governed by data privacy or access controls, should not be imported.
++ Model measures and dimensions can be entirely hidden from Just Ask to simplify user experience and reduce confusion.
 
 
+### Next exercise
 
 Continue to - [Exercise 6 - Comparing 'Joule Analytical Insights' with 'Just Ask'](../ex6/README.md)

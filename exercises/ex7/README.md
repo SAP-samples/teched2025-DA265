@@ -11,6 +11,7 @@ Building on exercise 1, you are an SAP Workzone user aiming to gain analytical i
 
 + To evaluate how your upgraded model impacts Joule and the benefits it offers to Joule users.
 + Understand how prompting can assist Joule in identifying the appropriate data model.
++ How to expose a model solely to either Just Ask or Joule consumers
 + Recognise that correctly configuring "Just Ask" with suitable data models—whether enhanced or customised for Joule and its users—is crucial.
 + Exposing an SAP Analytics Cloud model (or Datasphere / Business Data Cloud) isn’t as straightforward as just enabling it; additional setup is necessary to enable users to utilise natural language as their interface to the data.
 

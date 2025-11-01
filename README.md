@@ -28,11 +28,10 @@ This workshop does not connect to SAP Datasphere, as the ‘tunnel’ connection
 
 ### Related SAP help guides
 
-+ [SAC AI-assisted feature]( https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/18850a0e13944f53aa8a8b7c094ea29e/8dcc1f1915b241b3a10c8e5b8a76b062.html?version=LATEST&locale=en-US)
 + [Joule Studio](https://help.sap.com/docs/Joule_Studio/45f9d2b8914b4f0ba731570ff9a85313/4444cd1ce4cd471bbe127ea2e4735b40.html?locale=en-US&version=LATEST)
 + [Joule Studio integration with SAP Analytics Cloud](
 https://help.sap.com/docs/joule/integrating-joule-with-sap/integration-with-sap-analytics-cloud?locale=en-US&version=LATEST)
-
++ [SAP Analytics Cloud AI-assisted feature]( https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/18850a0e13944f53aa8a8b7c094ea29e/8dcc1f1915b241b3a10c8e5b8a76b062.html?version=LATEST&locale=en-US)
 
 ## Exercises
 

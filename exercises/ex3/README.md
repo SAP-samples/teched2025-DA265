@@ -8,7 +8,12 @@ Similar to the previous exercise, you are an information user and occasional SAP
   
 ### Objective
 
-Understanding the importance of predefined questions helps information users know what they can ask and gives them a quick start. This demonstrates how simple it is to use natural language to create content that can be seamlessly integrated into new or existing Stories.
++ Understanding the value of predefined questions helps users recognise what they can ask and provides a quick way to get started.
+
++ Discover how the ‘just ask’ feature reveals the data structure of the model, allowing users to explore the data directly without creating a visualisation.
+
++ This illustrates how easily natural language can be used to generate content that integrates smoothly into new or existing Stories.
+
 
 
 ## Instructions

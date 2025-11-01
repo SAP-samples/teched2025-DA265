@@ -8,9 +8,9 @@ As an information user and occasional SAP Analytics Cloud user, though not an ex
   
 ### Objective
 
-To understand and experience the effectiveness of ‘just ask,’ so you can see how easy it is for business users to use.
++ To understand and experience the effectiveness of ‘just ask,’ so you can see how easy it is for business users to use.
 
-To learn how model data structures can be leveraged to improve insights, visualisations, and how natural language processing can utilise these structures.
++ To learn how model data structures can be leveraged to improve insights, visualisations, and how natural language processing can utilise these structures.
 
 ## Instructions
 

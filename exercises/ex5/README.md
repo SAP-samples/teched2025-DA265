@@ -4,6 +4,11 @@ In this section of the workshop, we will explore the types of metadata stored by
 
 Additionally, we will examine when it is necessary to re-index a model or re-sync it to ensure that Just Ask updates its metadata with the new values.
 
+
+## Instructions
+
+We estimate these instructions will take about 10 minutes to complete.
+
 ## Updating model dimension values
 
 ### Step 1: Open Brand Dimension

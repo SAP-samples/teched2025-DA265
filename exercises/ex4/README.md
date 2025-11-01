@@ -17,6 +17,9 @@ Additionally, you will use Joule to find documentation and steps required to ind
 
 ## Instructions
 
+We estimate these instructions will take about 40 minutes to complete.
+
+
 ## States as Countries
 
 ### Step 1: Open Just Ask Home page

@@ -6,6 +6,10 @@
 
 coming soon.
 
+## Instructions
+
+We estimate these instructions will take about 10 minutes to complete.
+
 
 ### Step 1: Switch to Joule in Workzone, start a new conversation
 

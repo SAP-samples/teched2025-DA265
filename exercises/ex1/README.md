@@ -16,6 +16,9 @@ Following this initial engagement, later exercises will highlight areas for impr
 
 ## Instructions
 
+We estimate these instructions will take about 10 minutes to complete.
+
+
 ### Step 1: Open Workzone
 1. Select 'Open link new window' by right-clicking on this link to [SAP Workzone](https://six-joule-sac-teched25.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=0ec917b6-0536-46a8-9bff-df00dd211f8a#Shell-home)
 2. Log in with user ID displayed next to the TechEd laptop.

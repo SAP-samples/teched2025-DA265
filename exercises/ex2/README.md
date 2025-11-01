@@ -14,6 +14,9 @@ As an information user and occasional SAP Analytics Cloud user, though not an ex
 
 ## Instructions
 
+We estimate these instructions will take about 40 minutes to complete.
+
+
 ### Step  1: Access SAP Analytics Cloud
 1. Select '**Open link new tab**' by right-clicking on this link to access [SAP Analytics Cloud](https://trial-bdc-sac-3.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#/home)
 2. You may be prompted to use the new theme, if so **select** 'Switch to Horizon'

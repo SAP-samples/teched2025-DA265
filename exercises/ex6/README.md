@@ -4,6 +4,10 @@
 
 Joule inside SAP Analytics Cloud is referred to as 'Joule Analytical Insights'.
 
+## Instructions
+
+We estimate these instructions will take about 10 minutes to complete.
+
 ## Joule Analytical Insights (this is currently in beta)
 
 coming soon.

@@ -2,6 +2,10 @@
 
 ...coming soon.
 
+## Instructions
+
+We estimate these instructions will take about 10 minutes to complete.
+
 
 ### Step 1: Open comment thread and summarise the last long comment
 

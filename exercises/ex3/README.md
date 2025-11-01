@@ -18,6 +18,8 @@ Similar to the previous exercise, you are an information user and occasional SAP
 
 ## Instructions
 
+We estimate these instructions will take about 10 minutes to complete.
+
 
 ## Consume (predefined) questions related to the model
 As information consumers, we appreciate predefined questions that show what’s possible without the need to learn or remember how to phrase questions.

@@ -56,7 +56,7 @@ We estimate these instructions will take about 10 minutes to complete.
 
 ### Step 3: Rephase
 
-1. Enter the comment `This is very interesting, very interesting indeed` (or any other comment you may prefer)
+1. Enter the comment `This is very interesting, very interesting indeed` (or any other comment you may prefer. Please refrain from submitting personal data.)
 2. Click **Rephrase**
 
 > With some assistance from AI, our comments can be rewritten to be clearer and easier to read.

@@ -120,10 +120,14 @@ A very simple question, but you’d like to see how your sales are performing co
 
 
 ## Summary
+Joule provides analytical insights through natural language by accessing data models you are authorised to view.
++ Conversations are saved and can be revisited later.
++ Each conversation retains a ‘context’ that allows for continuous interactions and refinement, enabling you to ask questions without re-entering previous prompts.
 
-Joule delivers analytic insights using natural language, accessing data models you are authorised to view.
-+ Conversations are saveable and can be revisited later.
-+ Each conversation maintains a ‘context’, shown during interactions- allowing you to define your questions without reintroducing previous prompts.
+### Joule depends on Just Ask
++ In the next exercise, you will use the ‘just ask’ feature in SAP Analytics Cloud to access the same model you used with Joule.
++ Joule depends on Just Ask in the background and cannot access data models without it. Therefore, any investment made in Just Ask so far remains valuable and is essential to Joule. 
 
+### Next exercise
 
 Continue to - [Exercise 2 - Use case 2: Information consumer](../ex2/README.md)

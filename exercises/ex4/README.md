@@ -1026,6 +1026,16 @@ Our users could not recognise that Country was a dimension and that the State in
 ## Summary
 
 
+You now understand how and when to improve an existing model to enhance user experience, specifically by:
++ Creating new measures to address user needs
++ Adding new metadata to existing dimensions, especially to hierarchies, allowing just ask to expose such improved hierarchies
++ Including synonyms, which is essential for easier identification of measures, dimensions, and for filtering multiple values within a single dimension
++ Using rules to add dimensions to visualisations, thereby enriching the visual context 
 
+Additionally,
++ How Joule can act as your co-pilot to assist in identifying tasks and relevant documentation, saving you time and enabling you to focus more on your tasks.
+
+
+### Next exercise
 
 Continue to - [Exercise 5 - Understanding Indexing](../ex5/README.md)

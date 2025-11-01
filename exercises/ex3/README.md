@@ -313,14 +313,14 @@ If nothing is pasted, open Just Ask to access the visualisation and click **copy
 
 ## Summary
 
-You now understand how and when to improve an existing model to enhance user experience, specifically by:
-+ Creating new measures to address user needs
-+ Adding new metadata to existing dimensions, especially to hierarchies, allowing just ask to expose such improved hierarchies
-+ Including synonyms, which is essential for easier identification of measures, dimensions, and for filtering multiple values within a single dimension
-+ Using rules to add dimensions to visualisations, thereby enriching the visual context 
+You now understand:
 
-Additionally,
-+ How Joule can act as your co-pilot to assist in identifying tasks and relevant documentation, saving you time and enabling you to focus more on your tasks.
++ How predefined questions assist users in recognising potential inquiries and offer a quick entry point.
++ How the ‘just ask’ feature exposes the data structure of the model, enabling users to explore data directly without needing to create a visualisation.
++ How natural language can be effortlessly employed to generate content that integrates seamlessly into new or existing Stories through simple copy and paste.
+
+
+
 
 
 ### Next exercise

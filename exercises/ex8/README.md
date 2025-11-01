@@ -61,6 +61,8 @@ We estimate these instructions will take about 10 minutes to complete.
 
 > With some assistance from AI, our comments can be rewritten to be clearer and easier to read.
 
+> Screenshot taken between steps 1 and 2
+
 ![Image](img/a164.jpg)
   
 

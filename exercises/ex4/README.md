@@ -1,8 +1,21 @@
 # Exercise 4 - Enhance the user experience
 
-We have utilized existing models with minimal effort to Just Ask. However, there are opportunities to enhance the user experience to enable key insights with a small amount of additional effort.
+## Overview
+
+### Persona
+
+You are a Just Ask administrator with basic SAP Analytics Cloud modelling skills. 
   
-Firstly, let’s explore some possible areas for improvement.
+### Objective
+
+To improve the existing sample model and boost user experience, you will identify several 'areas for improvement' and address these issues by:
+1. Upgrading the data model to enable consumers to obtain insights directly through the ‘just ask’ feature, including better handling of hierarchical data structures.
+2. Implementing synonyms and rules to measure and dimension member values.
+
+Additionally, you will use Joule to find documentation and steps required to index a model in Just Ask.
+
+
+## Instructions
 
 ## States as Countries
 

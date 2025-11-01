@@ -196,7 +196,7 @@ Combining the ‘YTD’ and the ‘top-level’ shown just a moment ago with the
 <BR>
 <BR>
 
-### Step  14: You’re keen to see of the USA is performing.
+### Step  14: You’re keen to see how the USA is performing.
   
 1. Type `show me sales ytd by state drill on country USA`
 2. Press **enter** or click **Ask**

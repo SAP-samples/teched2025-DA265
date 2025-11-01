@@ -314,9 +314,9 @@ If nothing is pasted, open Just Ask to access the visualisation and click **copy
 ## Summary
 
 You now understand:
-• How predefined questions assist users in recognising potential inquiries and offer a quick entry point.
-• How the ‘just ask’ feature exposes the data structure of the model, enabling users to explore data directly without needing to create a visualisation.
-• How natural language can be effortlessly employed to generate content that integrates seamlessly into new or existing Stories through simple copy and paste.
++ How predefined questions assist users in recognising potential inquiries and offer a quick entry point.
++ How the ‘just ask’ feature exposes the data structure of the model, enabling users to explore data directly without needing to create a visualisation.
++ How natural language can be effortlessly employed to generate content that integrates seamlessly into new or existing Stories through simple copy and paste.
 
 ### Next exercise
 

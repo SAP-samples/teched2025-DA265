@@ -1,9 +1,18 @@
 # Exercise 3 - Use case 3: Explore the data model and find additional insights
   
-This exercise will explore the data within a model without relying on IT to create any artefacts beforehand. Typically, IT will appropriately limit the scope of user stories and other artefacts, as the array of possibilities can be too vast for the time and effort required to cover all possibilities.
+## Overview
+
+### Persona
+
+Similar to the previous exercise, you are an information user and occasional SAP Analytics Cloud user, but not an expert. You want to improve an existing SAP Analytics Cloud story by adding new visualisations and insights. Although you're not very familiar with the data model structures, you want to explore the data in an ad-hoc manner. 
   
-We will consume predefined questions before we use Just Ask to explore the data model.
-  
+### Objective
+
+Understanding the importance of predefined questions helps information users know what they can ask and gives them a quick start. This demonstrates how simple it is to use natural language to create content that can be seamlessly integrated into new or existing Stories.
+
+
+## Instructions
+
 
 ## Consume (predefined) questions related to the model
 As information consumers, we appreciate predefined questions that show what’s possible without the need to learn or remember how to phrase questions.

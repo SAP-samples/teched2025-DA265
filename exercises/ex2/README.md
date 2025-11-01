@@ -628,6 +628,7 @@ Although not covered in this workshop, many other capabilities are supported, in
 + **Sorting**
 + Support for **Datasphere** and **Business Data Cloud** models.
   + Currently at TechEd 2025, only a ‘live connection’ is available; however, SAP plans to support a ‘tunnel’ connection for indexed access, like SAP Analytics Cloud models. This feature is not yet released and may change- stay tuned!
+	+ The planned ‘tunnel’ connection requires that the SAP Analytics Cloud and Datasphere Tenants be part of the Business Data Cloud Formation. 
   + Datasphere models with variables are supported; the value must be set when adding the model (You will learn how to add models in exercise 4)
 + **Currency** support and conversion: For instance, you can request figures to be displayed in Euros even if they are originally shown in US Dollars. The currency should be implemented using proper concurrency tables rather than a generic dimension. Additionally, there is a current restriction regarding currency support in Datasphere.
 

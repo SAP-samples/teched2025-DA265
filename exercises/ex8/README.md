@@ -1,6 +1,18 @@
 # Exercise 8 - AI-Assisted Commenting
 
-...coming soon.
+
+## Overview
+
+### Persona
+
+You are an SAP Analytics Cloud planning user involved in the planning cycle. Your role includes adding and reviewing comments from stakeholders, often in different languages. Once a quarter, you summarise these comments and provide recommendations.
+
+
+### Objective
+
+Discover how easy it is to use generative AI and the AI-powered commentary feature in SAP Analytics Cloud, especially for summarising individual comments, extended comment threads, or hierarchically organised comments. This tool is especially helpful when comments are in a language different from yours.
+
+
 
 ## Instructions
 
@@ -104,3 +116,5 @@ There are many comments made to the States of the USA in this model. We could re
 
 ## Summary
 
+This feature is just one of the many AI capabilities currently available. For more information about this feature and others, please visit
+[SAP Discovery Center - SAP Business AI - SAP Analytics Cloud](https://discovery-center.cloud.sap/ai-catalog/?productId=f754af8c-a3a2-4bf7-bbd7-2face9ca4139)

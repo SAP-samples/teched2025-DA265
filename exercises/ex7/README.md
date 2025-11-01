@@ -170,6 +170,15 @@ In some instances, you might find that a model is simply too complex to be acces
 ## Summary
 
 
-Coming soon
+You now understand:
+
++ Upgrading models within SAP Analytics Cloud is essential to ensure ease of use and promote adoption, benefiting Joule (and Just Ask) users.
++ How model aliases and labels can help Joule or Just Ask users identify the correct data model.
++ How to restrict a model to only Just Ask or Joule users, which is often necessary when data models are complex, since such models are harder to navigate via natural language.
++ Additional effort is required to configure Just Ask with appropriate data models for both Joule and Just Ask users. Exposing an SAP Analytics Cloud model (or Datasphere/Business Data Cloud) involves more than just enabling it; it requires additional setup to allow users to interact with the data using natural language.
+
+
+
+### Next exercise
 
 Continue to - [Exercise 8 - AI-Assisted Commenting](../ex8/README.md)

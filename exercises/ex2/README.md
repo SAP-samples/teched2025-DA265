@@ -40,8 +40,10 @@ We estimate these instructions will take about 40 minutes to complete.
 
 ### Step  3: total sales (across all years)
 
-**No action in this step**.  
-As with Joule, the total sales in $ and by millions (m) is shown.
+1. **No action in this step**. Observe, as with Joule, the total sales in $ and by millions (m) is shown.
+2. The 'Just Ask' overlay is shown. Close and re-open the overlay to appreciate how it works. Click **Just Ask** icon.
+3. Click the **Just Ask** icon to reopen the overlay and see that it has remembered exactly where you were.
+
 
 
 

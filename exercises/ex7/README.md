@@ -1,10 +1,19 @@
 # Exercise 7 - Revisting Joule
 
-...coming soon.
 
-## Joule 
+## Overview
 
-coming soon.
+### Persona
+
+Building on exercise 1, you are an SAP Workzone user aiming to gain analytical insights directly within the platform. Despite your expertise, limited time and familiarity with analytic tools mean that natural language is your preferred way to interact.
+
+### Objective
+
++ To evaluate how your upgraded model impacts Joule and the benefits it offers to Joule users.
++ Recognise that correctly configuring Just Ask with suitable data models—whether enhanced or customised for Joule and its users—is crucial.
++ Exposing an SAP Analytics Cloud model (or Datasphere / Business Data Cloud) isn’t as straightforward as just enabling it; some additional setup is necessary to enable users to utilise natural language as their interface to the data. 
+
+
 
 ## Instructions
 

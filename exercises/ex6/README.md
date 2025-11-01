@@ -21,7 +21,6 @@ We estimate these instructions will take about 10 minutes to complete.
 
 ## Joule Analytical Insights (this is currently in beta)
 
-coming soon.
 
 
 ### Step 1: Open Story in edit mode

@@ -4,7 +4,7 @@
 
 ### Persona
 
-You are a Just Ask administrator with fundamental SAP Analytics Cloud modelling skills. 
+You are a Just Ask administrator with basic SAP Analytics Cloud modelling skills. 
 ### Objective
 + Understand the various types of metadata stored by Just Ask and recognise situations where disabling specific value storage is vital for data privacy
 + Additionally, learn when re-indexing or re-syncing a model is needed to ensure Just Ask updates its metadata with the latest values and evaluate the impact on users of the ‘just ask’ feature.

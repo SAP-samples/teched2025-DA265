@@ -310,14 +310,14 @@ If nothing is pasted, open Just Ask to access the visualisation and click **copy
 <BR>
 
 
+
 ## Summary
 
-You have now used Just Ask to explore the data model and added a new visualisation into a story you took a copy of.
+You now understand:
+• How predefined questions assist users in recognising potential inquiries and offer a quick entry point.
+• How the ‘just ask’ feature exposes the data structure of the model, enabling users to explore data directly without needing to create a visualisation.
+• How natural language can be effortlessly employed to generate content that integrates seamlessly into new or existing Stories through simple copy and paste.
 
-If they have the rights, users may decide to create new Stories rather than edit copies of existing ones.
-
-
-
-
+### Next exercise
 
 Continue to - [Exercise 4 - Enhance the user experience](../ex4/README.md)

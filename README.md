@@ -14,12 +14,12 @@ After exploring Just Ask, you'll be guided through enhancing your underlying dat
 
 Throughout the workshop, you'll gain best practices and valuable insights to maximise your data strategy.
 
-Cap it all off by leveraging one of the many AI-assisted features for intelligent commentary support, elevating your analytics capabilities to new heights. support.
+Cap it all off by leveraging one of the many AI-assisted features for intelligent commentary support, elevating your analytics capabilities to new heights.
 
 ## Requirements:
 
 + A SAP Build environment that includes Joule Studio and SAP Analytics Cloud.
-+ SAP Analytics Cloud must be part of a Business Data Cloud Formation, which includes SAP Datasphere, to support a planned ‘tunnel’ connection for Just Ask to index BDC models.
+  + SAP Analytics Cloud must be part of a Business Data Cloud Formation, which includes SAP Datasphere, to support a planned ‘tunnel’ connection for Just Ask to index BDC models.
 + User synchronisation is required between SAP Build and SAP Analytics Cloud.
 + SAP Analytics Cloud has enabled AI-assisted features. 
 + Both SAC and SAP Build utilise the same Identity Authentication service.

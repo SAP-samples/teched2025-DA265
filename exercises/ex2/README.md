@@ -610,7 +610,30 @@ Optionally repeat step 2 several times.
 
 
 ## Summary
+You have learnt how simple it is to request analytical insights through natural language, with features such as:
+⮚ Defining current, previous, and upcoming time periods, like ‘year to date’ or ‘next month’
+⮚ Applying filters on dimensions or measures
+⮚ Drilling into hierarchies 
+⮚ Selecting different visualisations based on the question, such as time-series for trend analysis
+⮚ Analysing variance and comparisons, including percentage differences across periods or versions
+⮚ Ranking
+⮚ Data IBCS visualisations generated automatically when appropriate
 
-You've now ...
+Additionally,
+⮚ Using dynamically generated suggested questions
+
+### Additional notes
+Although not covered in this workshop, many other capabilities are supported, including:
++ Language support for German, French, Italian, and Spanish- note that the interface and model language must match.
++ Support for Datasphere and Business Data Cloud models.
+  + Currently at TechEd 2025, only a ‘live connection’ is available; however, SAP plans to support a ‘tunnel’ connection for indexed access, like SAP Analytics Cloud models. This feature is not yet released and may change- stay tuned! It means that all 
+  + Datasphere models with variables are supported; the value must be set when adding the model (You will learn how to add models in exercise 4)
+ 
+
+There are several restrictions worth noting. 
+[Just ask restrictions ](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/00f68c2e08b941f081002fd3691d86a7/6eb78656cbca4b269d935573e651df54.html?locale=en-US)
+
+
+### Next exercise
 
 Continue to - [Exercise 3 - Use case 3: Explore the data model and find additional insights](../ex3/README.md)

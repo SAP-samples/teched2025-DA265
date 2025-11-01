@@ -281,7 +281,7 @@ Just Ask exposes values these dimensions have within the data, thus allowing you
 
 ### Step 16: Paste into Story
   
-1. Select the *Global Essence Group Page**.
+1. Select the **Global Essence Group Page**.
 2. Select the **copy/paste** icon.
 3. Select **Paste**
 

@@ -1,8 +1,14 @@
 # Exercise 5 - Understanding Indexing
 
-In this section of the workshop, we will explore the types of metadata stored by Just Ask. We will discuss scenarios where it is essential to disable the storage of specific values to protect data privacy. 
+## Overview
 
-Additionally, we will examine when it is necessary to re-index a model or re-sync it to ensure that Just Ask updates its metadata with the new values.
+### Persona
+
+You are a Just Ask administrator with fundamental SAP Analytics Cloud modelling skills. 
+### Objective
++ Understand the various types of metadata stored by Just Ask and recognise situations where disabling specific value storage is vital for data privacy
++ Additionally, learn when re-indexing or re-syncing a model is needed to ensure Just Ask updates its metadata with the latest values and evaluate the impact on users of the ‘just ask’ feature.
+
 
 
 ## Instructions

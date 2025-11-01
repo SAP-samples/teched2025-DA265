@@ -120,6 +120,8 @@ There are many comments made to the States of the USA in this model. We could re
 
 You now understand how easy it is to use generative AI and the AI-powered commentary feature in SAP Analytics Cloud. This tool is especially helpful for summarising individual comments, extensive comment threads, or comments organised hierarchically. It is also valuable when comments are in a language different from yours.
 
+
+### Additional notes
 This feature is just one of the many AI capabilities currently available. For more information about this feature and others, please visit
 [SAP Discovery Center - SAP Business AI - SAP Analytics Cloud](https://discovery-center.cloud.sap/ai-catalog/?productId=f754af8c-a3a2-4bf7-bbd7-2face9ca4139)
 

@@ -226,4 +226,4 @@ You now understand the different types of metadata stored by Just Ask, specifica
 
 ### Next exercise
 
-Continue to - [Exercise 6 - Comparing 'Joule Analytical Insights' with 'Just Ask'](../ex6/README.md)
+Continue to - [Exercise 6 - Comparing Joule inside and outside SAP Analytics Cloud](../ex6/README.md)

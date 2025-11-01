@@ -14,7 +14,7 @@ As an information user and occasional SAP Analytics Cloud user, though not an ex
 
 ## Instructions
 
-We estimate these instructions will take about 40 minutes to complete.
+We estimate these instructions will take about 30 minutes to complete.
 
 
 ### Step  1: Access SAP Analytics Cloud

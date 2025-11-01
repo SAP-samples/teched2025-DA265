@@ -17,7 +17,7 @@ Additionally, you will use Joule to find documentation and steps required to ind
 
 ## Instructions
 
-We estimate these instructions will take about 40 minutes to complete.
+We estimate these instructions will take about 30 minutes to complete.
 
 
 ## States as Countries

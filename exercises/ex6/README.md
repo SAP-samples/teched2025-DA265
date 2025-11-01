@@ -1,4 +1,4 @@
-# Exercise 6 - Comparing 'Joule Analytical Insights' with 'Just Ask'
+# Exercise 6 - Comparing Joule inside and outside SAP Analytics Cloud
 
 ## Overview
 

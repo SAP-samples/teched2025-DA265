@@ -21,7 +21,7 @@ The requirements to follow the exercises in this repository are...
 - [Exercise 3 - Use case 3: Explore the data model and find additional insights](exercises/ex3/)
 - [Exercise 4 - Enhance the user experience](exercises/ex4/)
 - [Exercise 5 - Understanding Indexing](exercises/ex5/)
-- [Exercise 6 - Comparing 'Joule Analytical Insights' with 'Just Ask'](exercises/ex6/)
+- [Exercise 6 - Comparing Joule inside and outside SAP Analytics Cloud](exercises/ex6/)
 - [Exercise 7 - Revisting Joule](exercises/ex7/)
 - [Exercise 8 - AI-Assisted Commenting](exercises/ex8/)
 

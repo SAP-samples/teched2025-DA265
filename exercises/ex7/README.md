@@ -66,6 +66,10 @@ We estimate these instructions will take about 10 minutes to complete.
 2. Enter `show me units by brand` 
 3. Press enter or click **send**
 
+
+Discover the true value of investing in an upgraded data model with the insights showcased here. Since exercise 1, we've seen a significant enhancement in analytical capabilities, now tailored precisely to your users' context and expectations. Focusing on the current year provides a more relevant and intuitive experience for your users, while the term 'grocery' has been seamlessly translated into filters that align perfectly with your business semantics. This upgrade not only optimizes your data analysis but also empowers your team to make smarter, faster decisions—unlock the full potential of your data today. 
+
+
 > Asking for 'units by brand' is a question that can be satisfied by both models, so we should expect a prompt.
 
 ![Image](img/9155.jpg)

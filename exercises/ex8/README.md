@@ -26,7 +26,7 @@ We estimate these instructions will take about 10 minutes to complete.
 2. Close Joule for Analytical Insights by clicking the **Joule** icon.
 3. Close Just Ask, by clicking the **Just Ask** icon
 4. Select the page **Sales Performance Commentary**
-5. Double-click the **comment** for **Texas**. You'll notice this is written in French and its also quite long!
+5. Double-click the **last long comment** for **Texas**. You'll notice this is written in French and its also quite long! 
 6. Click **Summarise Comment (English)**
 
 > Easily summarise lengthy comments with a single click and enjoy seamless translation into your preferred language based on your SAP Analytics Cloud profile. This feature simplifies understanding and makes your data interactions both more efficient and more enjoyable.
@@ -71,11 +71,10 @@ We estimate these instructions will take about 10 minutes to complete.
 <BR>
 <BR>
 
-### Step 4: Save comment, close
+### Step 4: Close
 
   
-1. Click **Save**
-2. Click on **x** to close
+1. Click on **x** to close
 
 
 ![Image](img/a165.jpg)

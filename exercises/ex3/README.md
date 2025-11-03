@@ -296,7 +296,7 @@ If nothing is pasted, open Just Ask to access the visualisation and click **copy
 <BR>
 <BR>
 
-### Step 19: Re-size chart and save
+### Step 17: Re-size chart and save
   
 1. **Re-size** the chart to make it larger.
 2. Press **Save**, under **File**.

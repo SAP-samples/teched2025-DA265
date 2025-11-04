@@ -96,8 +96,7 @@ We can avoid the prompt by telling Joule which model to use by adding `for DA265
 2. Press enter or click **send**
   
 > [!TIP]
-> With 'Joule Analytical Insights' (Joule within SAP Analytics Cloud), we currently identify the model by its name rather than its alias. Since this feature is in beta, this behaviour might change in the future to align with Joule when accessed outside of SAP Analytics Cloud. Later in this workshop, you'll access Joule outside of SAP Analytics Cloud and refer to the model by its alias, which for us is 'TechEd'.
-
+> With 'Joule Analytical Insights' (Joule within SAP Analytics Cloud), we currently identify the model by its name rather than its alias. Since this feature is in beta, this behaviour might change in the future to align with Joule when accessed outside of SAP Analytics Cloud. Later in this workshop, you'll access Joule outside of SAP Analytics Cloud and refer to the model by its alias, which for us is 'TechEd'.  
 > In summary, for 'Joule Analytical Insights' (Joule within SAP Analytics Cloud) you’ll refer to the model with ‘for DA265’ and for Joule with ‘for TechEd’.
 
 

@@ -19,6 +19,7 @@ We estimate these instructions will take about 10 minutes to complete.
 
 ### Step 1: Open Brand Dimension
 
+> [!NOTE]
 > The model should already be open from an earlier exercise. If not, please open your copied model 'DA256 Sales' from the root of 'My Files'
 1. Select the **Model Structure**
 2. No action. Validate that the model is the correct model 'DA265 Sales'
@@ -178,6 +179,7 @@ Although we have access to all dimension member values, as the model owner, the 
 2. For the **'Corporation'** dimension de-select the **include** under 'Members'
 3. Click **Save**
 
+> [!TIP]
 > The 'Show in search' option is very useful.
 > + When you remove a dimension from the search, it no longer appears in Just Ask. This helps simplify what users see and avoids confusion between similar measures, dimensions, or their values. 
 > + We will not disable this 'Show in search' option in this workshop but for real-life models you are likely to need it.

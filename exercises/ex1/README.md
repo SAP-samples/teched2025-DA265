@@ -25,7 +25,7 @@ We estimate these instructions will take about 10 minutes to complete.
 3. Log in with password displayed next to the TechEd laptop.
 4. Click **Continue** or **Log On** 
 
-> [!NOTE]     
+> [!TIP]     
 >  * If you use an Ingonito window at any time, you must enabled 3rd party cookies.
 >  * Consider the use of a 'guest' browser profile, which will automatically grant 3rd party cookies, if you choose not to use the default browser profile.
 

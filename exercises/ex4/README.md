@@ -132,6 +132,7 @@ We have already made a copy of the existing model and will enhance this copy, le
 1. Expand the **navigation bar**
 2. Select **'Modeller'**
 
+> [!CAUTION]
 > ***The next step must to be carried out carefully***
 > + do **NOT** select the original in **'My Files/Public/DA265'** since we don't want to alter the original as  that could cause issues for other users of this workshop.
 > + The order of files shown may differ from the screenshot.
@@ -386,6 +387,7 @@ But how we do that? How can we get add a model to Just Ask and add synonyms to i
 3. Click **Manage Models** to access the management page of Just Ask
 > Screenshot was taken between steps 2 and 3
 
+> [!NOTE]
 > As a user with Just Ask 'Administration' rights you have access to the 'Manage Models' interface.
 
 
@@ -849,7 +851,8 @@ You may also have observed that 'Profitable' is using the new measure you recent
 
 ### Step 51: Validating profitable and country/state rule
 
-> when multiple models return results, the sequence of the visualisations is somewhat ambiguous
+> [!NOTE]
+> When multiple models return results, the sequence of the visualisations is somewhat ambiguous
 
 #### For the visualisation for the model **DA265 Sales**:
 1. No action. Observe the default time period has been set to the **Current Year (Full Time)**

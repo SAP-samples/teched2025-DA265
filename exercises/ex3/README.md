@@ -83,7 +83,7 @@ When copying the story, we will also copy the underlying data model, as we plan 
 
 We are currently using the 'sample' model; however, we will create a copy of an identical sample that has already been renamed. This will make it clearer later which model is which and avoid the need to rename the model.
 
-> If you decide to use this workshop **outside of SAP TechEd**, you should rename your copied model either at the time of copying or afterwards by changing the model settings (General settings – Name and description)
+> [!NOTE] If you decide to use this workshop **outside of SAP TechEd**, you should rename your copied model either at the time of copying or afterwards by changing the model settings (General settings – Name and description)
 
 
 

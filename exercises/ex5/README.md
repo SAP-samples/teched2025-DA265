@@ -56,7 +56,7 @@ We estimate these instructions will take about 10 minutes to complete.
 
 > Screenshot taken between steps 2 and 3
 
-It means that we need to re-index the model for these new values to be shown within the Just Ask interface.
+It means that we need to re-sync the model for these new values to be shown within the Just Ask interface.
 
 ![Image](img/7131.jpg)
   
@@ -87,6 +87,9 @@ It means that we need to re-index the model for these new values to be shown wit
 1. Click **Sync model**
   
 Re-syncing the model will re-index the values. It will also re-read the data structures and any other changes you've made, such as adding calculated measures. 
+
+> [!TIP]
+> We don't need to manually trigger Just Ask to re-sync, as it happens automatically behind the scenes. When a model is updated, Just Ask places it in a queue for re-syncing. In a workshop setting, since we can't afford to wait, we'll manually force a re-sync.
 
 ![Image](img/7133.jpg)
   

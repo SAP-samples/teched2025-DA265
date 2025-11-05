@@ -83,6 +83,10 @@ A very simple question, but you’d like to see how your sales are performing co
 
 ### Step 6: by Store for Washington
 1. **No action in this step**. Observe the bar chart now showing the sales for each state and it has maintained the variance comparison to last year. You can see that the Washington state has the largest sales.
+
+> [!NOTE]
+> A 'top 5' ranking is automatically added to simplify the chart when space is limited.
+
 2. In the search box type `by store for washington`, as you would now like to see which stores are performing well in your best performing state.
 3. Press **enter** or click **send**
   

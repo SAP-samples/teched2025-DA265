@@ -341,41 +341,7 @@ Observe you may interact will all charts, including simple functions such as exc
 <BR>
 <BR>
 
-### Step  32: top-performing products
-
-Now you need AI to help identify your top-performing products
-  
-1. Type `top 3 product by sales and state`
-2. Press **enter** or click **Ask**
-        
-![Image](img/2031.jpg)
-
-<BR>
-<BR>
-<BR>
-<BR>
-
-### Step  33: ranking has been automatically set
-
-No action in this step.
- 
-Observe the ranking option has been selected for you
-  
-1. Click on **...**
-2. Click on **Rank**
-3. Click on **All Dimensions**
-4. Observe **Top 3** has been selected for you. 
-
-> If this visualisation differs from the one shown, please try again and inform your SAP workshop instructor. This will help us determine if a previous issue has been fully resolved.
-
-![Image](img/2032.jpg)
-
-<BR>
-<BR>
-<BR>
-<BR>
-
-### Step  34: comparison with previous year
+### Step  32: comparison with previous year
 
 Your attention is now on the number of units sold and you want to compare 2025 units with the previous year:
   
@@ -389,7 +355,7 @@ Your attention is now on the number of units sold and you want to compare 2025 u
 <BR>
 <BR>
 
-### Step  35: variance has been automatically set
+### Step  33: variance has been automatically set
 
 No action in this step.
   
@@ -407,7 +373,7 @@ Observe the variance comparison has been selected for you with the current year 
 <BR>
 <BR>
 
-### Step  36: ... for each store
+### Step  34: ... for each store
 
 Now, you want to see how the 2025 units compare to previous years for each store.
   
@@ -421,7 +387,7 @@ Now, you want to see how the 2025 units compare to previous years for each store
 <BR>
 <BR>
 
-### Step  37: variance applied for each store
+### Step  35: variance applied for each store
 
 No action in this step. Observe the variance has been applied across the bar chart.
 
@@ -432,7 +398,7 @@ No action in this step. Observe the variance has been applied across the bar cha
 <BR>
 <BR>
 
-### Step 38: ... as %
+### Step 36: ... as %
 
 You’re now curious about how figures are as a percentage difference so adding 'as %' or 'as pecentage' to the question.
   
@@ -446,7 +412,7 @@ You’re now curious about how figures are as a percentage difference so adding 
 <BR>
 <BR>
 
-### Step 39: % variance added
+### Step 37: % variance added
 
  No action in this step. Observe the variance percentage shows that each store has sold exactly 10% more than last year.
 
@@ -458,7 +424,7 @@ You’re now curious about how figures are as a percentage difference so adding 
 <BR>
 
 
-### Step 40: ... with forecast values for current month
+### Step 38: ... with forecast values for current month
 
 You’re now interested in comparing units sold with the forecast, and for the current month
   
@@ -474,7 +440,7 @@ You’re now interested in comparing units sold with the forecast, and for the c
 
 
 
- ### Step 41: current month has been automatically set
+ ### Step 39: current month has been automatically set
  
  No action in this step. Observe the current month has been selected for you. (Screenshot taken in October 2025)
   
@@ -493,7 +459,7 @@ You’re now interested in comparing units sold with the forecast, and for the c
 <BR>
 <BR>
 
-### Step 42: brands over 1 million
+### Step 40: brands over 1 million
 
 Your focus now turns to brands with over 1 millions units sold last year.
   
@@ -508,7 +474,7 @@ Your focus now turns to brands with over 1 millions units sold last year.
 <BR>
 <BR>
 
-### Step 43: Measure filter has been automatically set
+### Step 41: Measure filter has been automatically set
 
 No action in this step. Observe the current month has been selected for you. (Screenshot taken in October 2025)
   
@@ -527,7 +493,7 @@ No action in this step. Observe the current month has been selected for you. (Sc
 <BR>
 <BR>
 
-### Step 44: Next month's sales and expense
+### Step 42: Next month's sales and expense
 
 You want to now check the sales and expense for each store for next month
   
@@ -542,7 +508,7 @@ You want to now check the sales and expense for each store for next month
 <BR>
 <BR>
 
-### Step 45: Next month has been automatically set 
+### Step 43: Next month has been automatically set 
 
 No action in this step. Observe the next month has been selected for you. (Screenshot taken in October 2025)
   
@@ -561,7 +527,7 @@ Observe the complexities of the filtering and variance comparison have all been 
 <BR>
 <BR>
 
-### Step 46: actual v forecast
+### Step 44: actual v forecast
 
 You want to now check the sales for next month, but this time compare actuals with forecast
   
@@ -576,7 +542,7 @@ You want to now check the sales for next month, but this time compare actuals wi
 <BR>
 <BR>
 
-### Step 46: IBCS visuualizations when suitable
+### Step 45: IBCS visuualizations when suitable
 
 No action in this step. Observe the next month has been selected for you. (Screenshot taken in October 2025).
 
@@ -593,7 +559,7 @@ SAP Analytics Cloud generates visualizations that are certified by the Internati
 ## Dynamically generated questions serve as prompts, helping you explore related inquiries.
 
 
-### Step 47: Explore suggested questions
+### Step 46: Explore suggested questions
 
 1. Observe (no action) the bottom right-hand corner has several pre-defined questions relating to the model in use.  You will use these soon, not now.
 2. The top right-hand corner has several dynamically created questions you can ask. **Click** one of these.
@@ -616,7 +582,6 @@ You have learnt how simple it is to request analytical insights through natural 
 + Drilling into hierarchies 
 + Selecting different visualisations based on the question, such as time-series for trend analysis
 + Analysing variance and comparisons, including percentage differences across periods or versions
-+ Ranking
 + Data IBCS visualisations generated automatically when appropriate
 
 Additionally,
@@ -625,7 +590,7 @@ Additionally,
 ### Additional notes
 Although not covered in this workshop, many other capabilities are supported, including:
 + **Language support** for German, French, Italian, and Spanish- note that the interface and model language must match.
-+ **Sorting**
++ **Ranking** and **Sorting**
 + Support for **Datasphere** and **Business Data Cloud** models.
   + Currently at TechEd 2025, only a ‘live connection’ is available; however, SAP plans to support a ‘tunnel’ connection for indexed access, like SAP Analytics Cloud models. This feature is not yet released and may change- stay tuned!
 	+ The planned ‘tunnel’ connection requires that the SAP Analytics Cloud and Datasphere Tenants be part of the Business Data Cloud Formation. 

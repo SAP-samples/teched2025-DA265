@@ -22,7 +22,7 @@ We estimate these instructions will take about 10 minutes to complete.
 ### Step 1: Open comment thread and summarise the last long comment
 
 > [!NOTE]
-> The Story needs to be in edit mode. If the Story is not in edit mode, please click **edit**
+> The Story needs to be in edit mode. If the Story is not in Edit mode, please click **edit**
 1. Click back to the browser tab **SAP Analytics Cloud** 
 2. Close Joule for Analytical Insights by clicking the **Joule** icon.
 3. Close Just Ask, by clicking the **Just Ask** icon
@@ -103,7 +103,7 @@ There are many comments made to the States of the USA in this model. We could re
 <BR>
 <BR>
 
-### Step 6: Open Model to limit access to Just Ask
+### Step 6: Summary of decendants
   
 1. Note the summary has summarise all the decendants of the USA into a single comment, and the summary is shown in the language of your SAP Analytics Cloud user profile.
 

@@ -22,7 +22,7 @@ We estimate these instructions will take about 10 minutes to complete.
 ### Step 1: Open Workzone
 1. Select 'Open link new window' by right-clicking on this link to [SAP Workzone](https://six-joule-sac-teched25.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=0ec917b6-0536-46a8-9bff-df00dd211f8a#Shell-home)
 2. Log in with user `AC239484U**` replacing ** with your desk number, 01, 02, etc.. The number is displayed next to the TechEd laptop.
-3. Log in with password displayed on the main screen at the TechEd workshop 605, in Hall 6.2.
+3. Log in with password `Ob95FPYX5E1!`
 4. Click **Continue** or **Log On** 
 
 > [!TIP]     

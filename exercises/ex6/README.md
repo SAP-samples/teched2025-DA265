@@ -77,6 +77,9 @@ As two models can answer this question on ‘show me sales’, Joule needs to pr
 
 Two models are displayed: the original sample model and your now-enhanced copy, called **‘DA265 Sales’**. This model also has an alias of **‘TechEd’** and a label also called **‘TechEd’**
 
+
+> [!CAUTION]
+> If the prompt with two models isn't visible as shown in the screenshot, wait a few minutes and try again. Since you're using a beta feature, this issue may occur occasionally. Consider skipping to step 6 and returning to step 4 later.
   
 1. Select **DA265 Sales**
 

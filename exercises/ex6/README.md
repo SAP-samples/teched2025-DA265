@@ -79,7 +79,7 @@ Two models are displayed: the original sample model and your now-enhanced copy, 
 
 
 > [!CAUTION]
-> If the prompt with two models isn't visible as shown in the screenshot, wait a few minutes and try again. Since you're using a beta feature, this issue may occur occasionally. Consider skipping to step 6 and returning to step 4 later.
+> If the prompt with two models isn't visible as shown in the screenshot, wait a few minutes and try again. Since you're using a beta feature, this issue may occur occasionally. Consider returning to this step 4 later, and skip to step 6 for 6.1 and 6.2 (6.3 will likely show it doesn't know 'DA265', so then skip to Step 7).
   
 1. Select **DA265 Sales**
 
@@ -122,6 +122,10 @@ With Joule Analytical Insights we can easily copy and paste any visualisation in
 2. Select **Paste** which will paste the visualisation from Joule Analytical Insights into our story.
 3. Enter `show me sales by store for da265` 
 4. Press enter or click **send**
+
+> [!CAUTION]
+> If Joule indicates it doesn't have information on DA265, please retry later. You might also skip to step 7 and come back to this step afterwards.
+
 
 ![Image](img/8147.jpg)
 

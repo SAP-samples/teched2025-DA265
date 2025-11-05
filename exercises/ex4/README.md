@@ -101,7 +101,7 @@ However, when you ask for *Grocery Sales* both these values are not selected, in
 
 Try it:
   
-1.	Type `Grocery Sales`
+1.	Type `Grocery Store Sales`
 2.	Press **enter**, or click **search**
 3.	Open the **Store** filter
 4.	Select the missing **Grocery** value, so that both 'Mid-Size' and 'Small' are selected.

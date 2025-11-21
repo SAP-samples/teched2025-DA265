@@ -38,6 +38,7 @@ We estimate these instructions will take about 10 minutes to complete.
 
 ### Step 2: Open Joule
 1. Click **Joule** icon 
+
 ![Image](img/1002.jpg)
 <BR>
 <BR>

@@ -70,6 +70,10 @@ A very simple question, but you’d like to see how your sales are performing co
 
 
 ### Step 5: by State
+
+> [!CAUTION]
+> Should the visualisation not show the comparison, indicated by the green coloured values shown directly under the sales figure as with the image below, repeat step 4, but instead in the search box type `show me sales compared to last year`
+
 1. **No action in this step**. Observe that the Sales figure has changed to reflect the current year. Previously the figure was for all years. It also shows the variance to last year, as requested.
 2. In the search box type `by state`, as you would now like to see how the same figures compare for business across all regional states.
 3. Press **enter** or click **send**

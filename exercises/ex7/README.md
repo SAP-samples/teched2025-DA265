@@ -136,7 +136,7 @@ In some instances, you might find that a model is simply too complex to be acces
 <BR>
 
 
-### Step 7: Disabled 'TechEd' for Joule
+### Step 7: Disable 'TechEd' for Joule
   
 
 1. Change the visibility to **Enabled for Just Ask only**

@@ -71,7 +71,7 @@ A very simple question, but you’d like to see how your sales are performing co
 
 ### Step 5: by State
 
-> [!CAUTION]
+> [!IMPORTANT]
 > If the visualisation does not display the comparison, indicated by the green-coloured values directly beneath the sales figure as shown in the image below, repeat step 4. Instead, type `show me sales compared to last year` into the search box.
 
 1. **No action in this step**. Observe that the Sales figure has changed to reflect the current year. Previously the figure was for all years. It also shows the variance to last year, as requested.

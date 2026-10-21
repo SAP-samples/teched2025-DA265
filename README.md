@@ -1,5 +1,5 @@
 # DA265 - Discover AI in SAP Business Data Cloud with Joule
-
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2025-DA265)](https://api.reuse.software/info/github.com/SAP-samples/teched2025-DA265)
 ## Description
 
 This repository contains the material for the SAP TechEd 2025 session called DA254 - Discover AI in SAP Business Data Cloud with Joule.  
